@@ -123,6 +123,12 @@ You should aim for roughly %5 to 10% of those people following your account back
 Make sure to keep your Twitter account active, no one will bother following an inactive account. A good goal is ~1 or 2 tweets a day, and a free [Buffer](http://bufferapp.com) account can make that easy to manage.
 
 
+# Step 3: Define Success
+
+We're on step 3 and we still barely built anything! I know your inner engineer is cringing, but believe me this is good news. It means you haven't wasted any of your dev time on an idea that'd otherwise fail out of the gate.
+
+Today is the inflection point, we're nearly to the building phase, just a little further to go.
+
 ## Draft Your Business Model
 
 This is your first best guess about how you'll make money. It's likely that this'll change in the future, and that's ok. Your community building so far should have informed you that (a) they want your product, and (b) how/if they're willing to pay for it.
@@ -148,13 +154,11 @@ I can't count the number of times I hear founders talk about the myriad ways the
 
 You should have 1 revenue model, and be working to validate that 1 model starting right now. If that model doesn't end up working out, you'll find out soon and can iterate to a new model - that's fine. It's better to pick one => prove it wrong => move to a second model. Trying too many models at once confuses your users, confuses your dev schedule, and confuses your success metrics.
 
-# Step 3: Define Success
 
-We're on step 3 and we still barely built anything! I know your inner engineer is cringing, but believe me this is good news. It means you haven't wasted any of your dev time on an idea that'd otherwise fail out of the gate.
-
-Today is the inflection point, we're nearly to the building phase, just a little further to go.
+## Estimate Success
 
 At this point, you have:
+
 - [ ] a solid idea of your target market
 - [ ] a product idea that's been validated from the above market
 - [ ] a list of potential customers, and a website that's generating more
@@ -171,9 +175,7 @@ You have all of the information necessary to decide "will it work?". Success is 
 		- roughly 2% of users will buy in-app purchases
 		- roughly 2% of users who click through to the store will buy/download
 
-# Step 3-∞
-
-## Make a Prototype Quickly
+# Step 3: Make a Prototype
 - [ ] Use something like [proto.io](https://proto.io) or [popapp.in](https://popapp.in) to make a quick prototype
 - [ ] Show people in your audience. Validate you're on the right track
 
@@ -193,7 +195,19 @@ Just because you're building somethign doesn't mean you can forget about buildin
 - [ ] [Vine](http://vine.co) - Make a vine account and post short 5s videos showing your progress as you build the app
 	- People love seeing progress, and sometimes you'll be surprised at what hits a nerve and gets re-shared
 
-# Step 4-∞
+# Step 4: Bulding the App
+
+## Start building
+plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% for QA.
+
+Purposefully decide on priority of:
+
+1. feature list
+2. quality
+3. timeline
+
+Every product and development decision you make should be weighed against this priority list.
+
 
 ## Collect inbound links
 
@@ -203,11 +217,11 @@ The goal here is to start getting 3rd party people talking about you, even if ju
 	- this site connects reporters to sources, and is an easy way to get quoted in the press.
 	- They send you daily email(s) with pitches from press. Simply reply w/ your response and info for a chance to be included in the story with a link to your site
 - [ ] Start a company/dev blog
+	- I've recieved lots of traction from [Loose Leaf's dev blog](http://blog.getlooseleaf.com), it's been great for inbound links
 	- Start posting interesting content about anything. some ideas:
 		- how/why you started the company
 		- the problems of your current target audience
 		- interesting tech you've created as you built your product
-	- I've recieved lots of traction from [Loose Leaf's dev blog](http://blog.getlooseleaf.com), it's been great for inbound links
 	
 	
 
@@ -229,8 +243,7 @@ At this point you're very close to launch. The app is "ready" but not ready. The
 Beta will help you catch user confusion and awkward onboarding flows that you weren't able to catch in the prototype / survey phase. You're goal here isn't building new features, it's making sure new users understand your current features and can be effective.
 
 
-
-# Step 5-∞
+# Step 6-∞
 
 Nearly there! Now submit to the store
 
