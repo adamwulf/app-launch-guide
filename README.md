@@ -12,9 +12,7 @@ My name is Adam Wulf, and I've worked on mobile apps both in large and also as a
 I missed some stuff! I'm only one guy with my own limited experience. If you see that I've missed some info or have helpful resources to share, submit an issue or PR, or just [get in touch](http://twitter.com/adamwulf)
 
 
-# Step 0
-
-## Books to read
+# Step 0: Read these Books
 
 Take a few evenings and read through these books. They're incredibly helpful for helping you understand the incentives of press/web/sites/buzz/etc, and also give concrete advice and ideas for how to market your app.
 
