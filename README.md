@@ -22,6 +22,24 @@ Take a few evenings and read through these books. They're incredibly helpful for
 	- Describes 19 marketing channels any start up can use, and a process for trying them out
 
 
+# Resource List
+Throughout this guide, I'll reference a number of great resources, some free and some cheap. Here are all the resources in one place:
+
+- Social
+	- [Buffer App](http://bufferapp.com) - Free - easy auto-post to your twitter so you dont need to baby sit it.
+	- [Mad Mimi](https://madmimi.com/short_ref/nyw) - Free/Cheap - Easily manage your email list
+	- [Vine](http://vine.co) - Free - Great way to show your dev progress visually to your audience
+	- [TweetDeck](https://tweetdeck.twitter.com/) - Free - Easily stay on top of multiple lists of influencers so you can jump into the conversation when appropriate
+- Tracking
+	- [Mixpanel](http://mixpanel.com) - Free - Track user behavior to determine success/fail of onboarding
+	- [Crashlytics](http://crashlytics.com) - Free - Automated crash reports and beta distribution
+	- [AppFigures](https://appfigures.com) - Free/Cheap - Automated sales and app review reports
+	- [iTunes Affiliate](https://www.apple.com/itunes/affiliates/) - Free - Lets you track (sort of) how links into the iTunes Store convert into sales. Also lets you scratch back some of the 30% that Apple takes
+- Press / PR / Marketing
+	- [HARO](http://www.helpareporter.com) - Free - Daily emails from press asking for sources for their stories
+	- [Find Keywords for App Store](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective) - Free - Blog post detailing how to objectively find the right keywords for your App Store description
+	- [SensorTower](https://sensortower.com/) - Free - Helps with competitor and keyword research
+	- [ASO Keyword Spreadsheet](https://docs.google.com/spreadsheets/d/1QDlCM8Q0H_MBBef-kHb74b05DRRlLye1MFdp6GF-wdc/edit?usp=sharing) - Free - Spreadsheet to help measure keywords
 
 # Step 1: Finding the App Idea
 
@@ -85,7 +103,7 @@ This website will do a few things for you:
  - it'll further validate that your customers actually want what you're building
  	- if you can't get their email, you defintiely can't get their money
 
-I use [MadMimi](https://madmimi.com/short_ref/nyw) to manage my email list, but there's lots of options out there for free and for cheap.
+I use [Mad Mimi](https://madmimi.com/short_ref/nyw) to manage my email list, but there's lots of options out there for free and for cheap.
 
 You should aim for 5% to 10% of incoming traffic to convert into an email address.
 
@@ -166,6 +184,10 @@ You have all of the information necessary to decide "will it work?". Success is 
 - [ ] Get beta users asap
 	- excited beta users are best, the fall off rate for beta users can be high, so always be finding and adding new testers
 
+Just because you're building somethign doesn't mean you can forget about building your audience. Remember to stay on top of Twitter/FB/etc and stay connected to your customers.
+
+- [ ] [Vine](http://vine.co) - Make a vine account and post short 5s videos showing your progress as you build the app
+	- People love seeing progress, and sometimes you'll be surprised at what hits a nerve and gets re-shared
 
 # Step 4-∞
 
