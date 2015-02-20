@@ -176,9 +176,33 @@ You have all of the information necessary to decide "will it work?". Success is 
 		- roughly 2% of users who click through to the store will buy/download
 
 # Step 3: Make a Prototype
+
 - [ ] Use something like [proto.io](https://proto.io) or [popapp.in](https://popapp.in) to make a quick prototype
 - [ ] Show people in your audience. Validate you're on the right track
 
+Don't spend more than a few days building out a prototype. You only want to build enough to validate that you've got the right audience <=> product match.
+
+By this point, you (a) have an audience and (b) have a proof of concept. If people aren't lining up, then you're doing something wrong. Either your marketing is off, audience is off, or product is off.
+
+Iterate on the idea and marketing to prove you're on the right track before commiting serious dev time in the next step.
+
+
+# Step 4: Bulding the App
+
+Throw away your prototype. Holy moly don't use that as a foundation going forward. Actually throw it away, do not re-use any of its code.
+
+## Planning your Timline
+plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% of your timeline for QA.
+
+Purposefully decide on priority of:
+
+1. feature list
+2. quality
+3. timeline
+
+Every product and development decision you make should be weighed against this priority list.
+
+## Build It!
 
 - [ ] Build the app (It's your MVP remember, keep it small!)
 - [ ] Behavior tracking, I use [Mixpanel](http://mixpanel.com)
@@ -195,18 +219,7 @@ Just because you're building somethign doesn't mean you can forget about buildin
 - [ ] [Vine](http://vine.co) - Make a vine account and post short 5s videos showing your progress as you build the app
 	- People love seeing progress, and sometimes you'll be surprised at what hits a nerve and gets re-shared
 
-# Step 4: Bulding the App
 
-## Start building
-plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% of your timeline for QA.
-
-Purposefully decide on priority of:
-
-1. feature list
-2. quality
-3. timeline
-
-Every product and development decision you make should be weighed against this priority list.
 
 
 ## Collect inbound links
