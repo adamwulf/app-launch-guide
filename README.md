@@ -198,7 +198,7 @@ Just because you're building somethign doesn't mean you can forget about buildin
 # Step 4: Bulding the App
 
 ## Start building
-plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% for QA.
+plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% of your timeline for QA.
 
 Purposefully decide on priority of:
 
