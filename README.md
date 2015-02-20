@@ -3,7 +3,9 @@
 ## Why
 This guide is aimed at indie developers who are building and launching their iOS apps largely by themselves. The guide will walk through planning, pre-launch, marketing, product dev, QA, and launch.
 
-The goal is to help ensure that no step is missed during the process, so that you never have the "oh i wish I'd..." moment months into development.
+The goal is to combine the concrete product development schedule with an equally concrete marketing schedule so that nothing is missed.
+
+The outline below will combine marketing and product deadlines into a single timeline, so that you can plan for both the marketing and product cycle in tandem.
 
 ## Who
 My name is [Adam Wulf](https://twitter.com/adamwulf), and I've worked on mobile apps both in large and also as an indie developer. I have recently launched [Loose Leaf](https://getlooseleaf.com) and am launching [Remotely](http://getremotely.com) very soon. This guide is a collection of lessons learned.
