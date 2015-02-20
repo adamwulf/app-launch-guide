@@ -6,7 +6,7 @@ This guide is aimed at indie developers who are building and launching their iOS
 The goal is to help ensure that no step is missed during the process, so that you never have the "oh i wish I'd..." moment months into development.
 
 ## Who
-My name is Adam Wulf, and I've worked on mobile apps both in large and also as an indie developer. I have recently launched [Loose Leaf](https://getlooseleaf.com) and am launching [Remotely](http://getremotely.com) very soon. This guide is a collection of lessons learned.
+My name is [Adam Wulf](https://twitter.com/adamwulf), and I've worked on mobile apps both in large and also as an indie developer. I have recently launched [Loose Leaf](https://getlooseleaf.com) and am launching [Remotely](http://getremotely.com) very soon. This guide is a collection of lessons learned.
 
 ## Contribute
 I missed some stuff! I'm only one guy with my own limited experience. If you see that I've missed some info or have helpful resources to share, submit an issue or PR, or just [get in touch](http://twitter.com/adamwulf)
