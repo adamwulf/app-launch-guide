@@ -22,7 +22,7 @@ Take a few evenings and read through these books. They're incredibly helpful for
 	- Describes 19 marketing channels any start up can use, and a process for trying them out
 
 
-# Resource List
+### Additional Resource List
 Throughout this guide, I'll reference a number of great resources, some free and some cheap. Here are all the resources in one place:
 
 - Social
