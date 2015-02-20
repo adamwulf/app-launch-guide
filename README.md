@@ -18,23 +18,23 @@ I missed some stuff! I'm only one guy with my own limited experience. If you see
 
 Every good app starts with a good idea, and we all have too many ideas already. Day one helps you filter these ideas to find the right one.
 
-[ ] Think of a general app idea
+- [ ] Think of a general app idea
 
 This idea will change throughout the process, and that's ok. The only important thing is that you have a general direction you're headed. Nothing is proven, nothing is set in stone, this idea is just pointing you in a direction, any direction.
 
-[ ] Define your target audience
+- [ ] Define your target audience
 
 This doesn't need to be super specific yet, but you need to have a general idea of who'll use your app. Older folks? Younger? Teens? Family? Single? Professional? Occupation?
 
-[ ] Define the problem you solve
+- [ ] Define the problem you solve
 
 What problem does your audience have that your app solves? Does it them complete a task faster? more competely? Does it reduce two problems to one problem?
 
-[ ] Market research
+- [ ] Market research
 
 Look for similar apps that are already in the store. It doesn't matter if my-idea-is-a-special-snowflake, people are already (a) solving your problem with some other app or (b) don't actually have the problem you think they do.
 
-[ ] Validate your idea
+- [ ] Validate your idea
 
  - Google Surveys
  - Setup Twitter account, follow target audience, measure follow-back rate
