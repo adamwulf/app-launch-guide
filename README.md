@@ -85,7 +85,7 @@ Next up we'll work on validating your ideas with your target audience. Will it f
 
 # Step 2: Validating the App Idea
 
-Most startups because they can't find customers, not because they don't have a product. You need to start finding your customers right now, before you've even built anything, and verify to yourself and to them that your idea from Step 1 is actually something they'd pay for and use.
+Most startups fail because they can't find customers, not because they don't have a product. You need to start finding your customers right now, before you've even built anything, and verify to yourself and to them that your idea from Step 1 is actually something they'd pay for and use.
 
 For each idea that's made it through Step 1 filters, you'll want to follow this process until you find one that sticks.
 
@@ -123,31 +123,41 @@ A few questions to help you get started:
 	- you're not worried about lock in at this point, you can change to something else after you've proved traction. Right now, you're focused on spending as little money as possible on dev costs to get that initial validation
 - [ ] iPhone? iPad? Android? Mobile web? Native?
 - [ ] "What if i didn't build feature X?" If it'd still be useful, then don't build feature X.
+
+## Check In
+
+At this point, you should know:
+
+- [ ] who your target market is
+- [ ] where you can reach your target market online and offline
+- [ ] a rough idea of the problem they have
+- [ ] a rough idea of the solution you want to sell them
+
+If one of those isn't true for you, look back at the previous sections and clarify until you're ready.
 	
 ## Build a Landing Page
 
-Now you know who your customers are, where they are, and what you want to sell them. Build a landing page that describes exactly those things, and *start collecting email addresses*.
+Now you know who your customers are, where they are, and what you want to sell them. Build a landing page that describes exactly those things, and start collecting email addresses. _If you can't get their email, you definitely can't get their money_.
 
 This website will do a few things for you:
 
  - these are the people most likely to buy your product on day one
  - it'll further validate that your customers actually want what you're building
- 	- if you can't get their email, you defintiely can't get their money
 
 I use [Mad Mimi](https://madmimi.com/short_ref/nyw) to manage my email list, but there's lots of options out there for free and for cheap.
 
 You should aim for 5% to 10% of incoming traffic to convert into an email address.
 
-One great way to test conversions:
+One simple way to test conversions:
 
 1. Find influential Twitter users who have followers in your target audience.
 2. Setup a Twitter account (fill out the bio + icon + etc. tweet a bit to flesh out the profile. 
 3. Make sure to add a link to your landing page in your bio.)
-4. and auto-follow their followers.
+4. auto-follow their followers.
 
-You should aim for roughly %5 to 10% of those people following your account back, and roughly 20% of those should be converting on your site into email addresses. If that's not the case, then you've missed your audience, missed your product, missed your pitch of the product, or all three. A/B test and try new audiences to track down the issue.
+You should aim for roughly %5 to 10% of those people following your account back, and roughly 20% of those that click through should be converting on your site into email addresses. If that's not the case, then you've missed your audience, missed your product, missed your pitch of the product, or all three.
 
-Make sure to keep your Twitter account active, no one will bother following an inactive account. A good goal is ~1 or 2 tweets a day, and a free [Buffer](http://bufferapp.com) account can make that easy to manage.
+No one will bother following an inactive account, so post relevant content to that account consitsently - at least once a day. A free [Buffer](http://bufferapp.com) account can make that super easy to manage.
 
 
 # Step 3: Define Success
@@ -163,10 +173,10 @@ This is your first best guess about how you'll make money. It's likely that this
 Common models for apps, pick **one**:
 
 - [ ] Sell an app for a fixed price
-    - [Loose Leaf](https://itunes.apple.com/us/app/loose-leaf/id625659452?mt=8&uo=4&at=10lNUI&ct=github) launched this way, we're a dying breed
+    - [Loose Leaf](https://itunes.apple.com/us/app/loose-leaf/id625659452?mt=8&uo=4&at=10lNUI&ct=github) launched this way, we're a dying breed. [I recently changed to free with IAP](http://blog.getlooseleaf.com/post/115348248184/loose-leaf-is-free).
     - games were recently [featured on the App Store](http://www.wired.co.uk/news/archive/2015-02/13/pay-once-and-play-apple-apps) that followed this model
 - [ ] Free app, with single fixed price IAP to unlock all features
-    - many reference or productivity apps do this to effectively provide a free trial
+    - many productivity or reference apps do this to effectively provide a free trial
 - [ ] Free app, with multiple fixed price IAP, possibly consumables, to unlock different features
     - Paper by 53, before they went free
 - [ ] Free app, with subscription IAP for recurring services
@@ -176,13 +186,44 @@ Common models for apps, pick **one**:
 - [ ] 100% free app used as marketing for real world product
     - Paper by 53, after they went free, to sell more Pencil
     - Adobe mobile apps, to sell their stylus and larger Mac apps
+- [ ] Advertising    
+	- I hesitate to even list this one, it's usually the cop-out business model. You should know that you need **huge** traffic to make ad revenue work. "It'll be viral and we'll make crazy ad revenue" is not a business model.
 
-I can't count the number of times I hear founders talk about the myriad ways they'll make money. "We'll have ads! And paid upgrade! And sell t-shirts! and of course subscription revenue from our pro users!" This is your first clue that you don't understand your audience, go back to the start of Step 2 and get more feedback from your potential customers.
+I can't count the number of times I hear founders talk about the myriad ways they'll make money. "We'll have ads! And paid upgrade! And sell t-shirts! and of course subscription revenue from our pro users!" This is your first clue that you don't understand your audience, go back to the start of Step 2 and get more feedback from your potential customers. You can expand to more revenue streams _after_ success, but for launch you need to pick _one_.
 
 You should have 1 revenue model, and be working to validate that 1 model starting right now. If that model doesn't end up working out, you'll find out soon and can iterate to a new model - that's fine. It's better to pick one => prove it wrong => move to a second model. Trying too many models at once confuses your users, confuses your dev schedule, and confuses your success metrics.
 
+## Estimate Lifetime Revenue / User
 
-## Estimate Success
+Everytime someone downloads your app, how much money do you make? The estimate for this number will be different for each app, category, and revenue model.
+
+Here's a few numbers to help you estimate what your $/download might look like:
+
+ - email addresses that you collect will convert to downloads at 50%
+ - paid apps will convert traffic => downloads at roughly 3 to 5%
+ - free apps will convert traffic => downloads at roughly 20-30%
+ - free apps can convert users to IAP at roughly 3%
+   - note that multiple IAP options will each have their own conversion rate
+   - so saying (3% paid app) > (30% * 3% from free app) isn't strictly true
+   - 3% conversion to monthly subscription is much more than 3% once up front paid app for instance.
+ - Ads will be $1 / 1000 app launches
+ - out of app conversions - hardware, desktop software, etc - will convert at < 1%
+
+Of course these are super rough numbers, and might be dramatically different depending on your audience and model, but they should give you a good rough start.
+
+To give you an idea how different conversion rates can be depending on product and audience, check out the [post at Sensor Tower that compares avg $/user by app store category](https://blog.sensortower.com/blog/2015/04/16/how-much-money-ios-apps-make-per-download-by-category/).
+
+
+## Confession Time
+
+Remember how I didn't properly validate my target market early on with [Loose Leaf](https://getlooseleaf.com)? That mistake compounded here.
+
+Since I was aiming at a professional manager target audience, I launched with a up-front-paid-for app. "Professional managers won't have a problem paying a tiny amount for a professional app they'll use for work." That might've been true if I'd gotten traction from that audience, but teachers and students gave me much much larger traction, and they don't have the expendable income that professional managers do.
+
+I had the wrong audience in mind, so I chose the wrong revenue model. Oops! Four months after launch I was finally able to pivot into a free app with IAP to better target these education users. It was a costly mistake, and set me back dramatically.
+
+
+## Check In
 
 At this point, you have:
 
@@ -191,16 +232,15 @@ At this point, you have:
 - [ ] a list of potential customers, and a website that's generating more
 - [ ] a business model with a well defined MVP that executes that idea
 
+
+## Estimate Success
+
 You have all of the information necessary to decide "will it work?". Success is different for different people. Maybe you just want some hobby money. Maybe you just want it to break even, put it on your resume, and trade up in job. Maybe you want to go full time indie app dev, and this is your ticket. For all of these, you need to think through:
 
 - [ ] How much $$ do I *need* to make (not want, need)
 - [ ] How much $$ do I make per user (known from your business model)
-- [ ] How many customers exits for my product (known from market research)
-- [ ] How many customers can I convert (known from your conversion rate on your site)
-	- helpful hints for estimating:
-		- roughly 50% of email signups will actually get the app
-		- roughly 2% of users will buy in-app purchases
-		- roughly 2% of users who click through to the store will buy/download
+- [ ] How many customers exist for my product (known from market research)
+- [ ] Given my conversion rates, how much traffic to I need to generate to meet these goals?
 
 # Step 3: Make a Prototype
 
