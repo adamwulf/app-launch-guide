@@ -18,7 +18,7 @@ I missed some stuff! I'm only one guy with my own limited experience. If you see
 
 # Step 0: Read these Books
 
-Take a few evenings and read through these books. They're incredibly helpful for helping you understand the incentives of press/web/sites/buzz/etc, and also give concrete advice and ideas for how to market your app.
+Take a few evenings and read through these books. They're incredibly helpful in explaining the incentives of press/web/sites/buzz/etc, and also give concrete advice and ideas for how to market your app.
 
 - [ ] [Trust Me I'm Lying, by Ryan Holiday](http://amzn.to/1Adie3W)
 	- Awesome book describing the incentives of big press and how to "trade up" from smaller to larger sites
@@ -45,57 +45,84 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [SensorTower](https://sensortower.com/) - Free - Helps with competitor and keyword research
 	- [ASO Keyword Spreadsheet](https://docs.google.com/spreadsheets/d/1QDlCM8Q0H_MBBef-kHb74b05DRRlLye1MFdp6GF-wdc/edit?usp=sharing) - Free - Spreadsheet to help measure keywords
 
-# Step 1: Finding the App Idea
+# Step 1: Find some App Ideas
 
-Every good app starts with a good idea, and we all have too many ideas already. Day one helps you filter these ideas to find the right one.
+Every good app starts with a good idea, and we all have too many ideas already. This first step will help us filter these into a short list that might work.
 
-- [ ] Think of a general app idea
+These ideas will change throughout the process, and that's ok. The only important thing is that you have a general direction you're headed. Nothing is proven, nothing is set in stone, this idea is just pointing you in a direction, any direction.
 
-This idea will change throughout the process, and that's ok. The only important thing is that you have a general direction you're headed. Nothing is proven, nothing is set in stone, this idea is just pointing you in a direction, any direction.
+- [ ] List out all of your app ideas, don't filter yet, everything is a winner
 
-- [ ] Define your target audience
+Next:
+
+- [ ] For each app idea, define the problem you solve
+
+Each app idea should have a 1 sentence "This is the problem I solve." If you can't distill the problem into 1 sentence, then either (a) it's not really a problem, or (b) you don't actually understand the problem your idea solves. Clarify the problems, or axe it in our first filter below.
+
+For [Loose Leaf](https://getlooseleaf.com), my problem was "All the existing apps are digital notebooks for ideas you keep, i need ditigal scratch paper for super fast and rough brainstorming."
+
+Filter #1: Remove any app ideas with poorly defined problems
+
+- [ ] For each app idea, define your target market
+
+"Everyone" is not a target market. Get as specific as you can here. Each app can have multiple audiences, that's ok, but you need to make sure you have a primary and specific audience.
+
+For [Loose Leaf](https://getlooseleaf.com), my market started as "1st level product and design managers".
 
 This doesn't need to be super specific yet, but you need to have a general idea of who'll use your app. Older folks? Younger? Teens? Family? Single? Professional? Occupation?
 
-- [ ] Define the problem you solve
-
-What problem does your audience have that your app solves? Does it them complete a task faster? more competely? Does it reduce two problems to one problem?
-
 - [ ] Market research
 
-Look for similar apps that are already in the store. It doesn't matter if my-idea-is-a-special-snowflake, people are already (a) solving your problem with some other app or (b) don't actually have the problem you think they do.
+Look for similar apps that are already in the store. Don't lie to yourself that my-idea-is-a-special-snowflake; people are already (a) solving your problem with some other app or (b) don't actually have the problem you think they do.
 
-- [ ] Validate your idea
+Find out how much (a) or (b) already exist, and how.
 
- - Google Surveys
- - Setup Twitter account, follow target audience, measure follow-back rate
- - Setup landing page to collect email addresses. measure converstion rate
- - Ask people in your target audience
-    - friends and family will be too nice to you, get objective feedback
+### Next up: Validate your idea
 
+That wasn't so bad! At this point you should have a list of ideas where you've (a) defined the problem (b) defined the audience and (c) defined your solution compared to existing solutions.
+
+Next up we'll work on validating your ideas with your target audience. Will it float?! Let's find out!
 
 # Step 2: Validating the App Idea
 
-Most startups because they can't find customers, not because they don't have a product. You need to start finding your customers right now, before you've built anything, and verify to yourself and to them that your idea from Step 1 is actually something they'd pay for and use.
+Most startups because they can't find customers, not because they don't have a product. You need to start finding your customers right now, before you've even built anything, and verify to yourself and to them that your idea from Step 1 is actually something they'd pay for and use.
+
+For each idea that's made it through Step 1 filters, you'll want to follow this process until you find one that sticks.
+
+## Confession time
+I skipped this step when I was developing [Loose Leaf](https://getlooseleaf.com), and I paid the price for it. It took me nearly 4 months _post-launch_ until I had validated a proper target marketing for Loose Leaf, and that was after 2 years of development! It turns out product/design managers don't care about Loose Leaf like it'd thought, but teachers and students love the app. What a wasted opportunity - I'm still playing catch up!
+
+This is something that we were sure to get right with [Remotely](http://gracefulmade.com/remotely/) - pre launch we already have near 5000 email subscriptions and engaged twitter followers eager for the launch.
 
 ## Find Your Community
 
 - [ ] Find where your audience meets online. Twitter? Pinterest? Vine? Facebook? Forums?
+
+After launch, Loose Leaf was suggested between teachers multiple times. A few times even during a [Twitter Chat](https://blog.bufferapp.com/twitter-chat-101) which helped get more visibility into that community.
+
 - [ ] Find where your audience meets offline. Meetups? Marathons? Conferences?
 - [ ] Find thought leaders in your community, start listening and entering the conversation
 - [ ] Find users on Twitter/Pinterest/etc that are influential
 
 I **cannot stress this enough**, talk to your customers as soon as you possibly can, even before you start building!
+
+To help organize your potential audience, I suggest keeping a spreadsheet in Google. For each of my target audiences, I keep a list of influential Twitter users in that audience. I wrote some simple scripts to scrape profile information, so that I could easily sort by follower count, or search based on keywords in their profile. Then, for each market, I setup a Twitter list with a short list of influential people in each group.
+
+You can learn so much just by listening to the conversations in each group. Twitter is ripe for complaining, so it's a great way to listen in and hear if they're ever actually complaining about the problem you're aiming to solve in the first place.
+
+It's also a great way to jump into related conversaions when it's appropriate. If you genuinely have something to add, or can anwer a question they post, it's a great way to connect and get to know your audience better.
      
 ## Define Your MVP
 
-Define your Minimum Viable Product - How little can you build and still provide value to your customer?
+Now that you've started listening to and getting connected to your audience, you should have enough information to make a rough pass at a Minimum Viable Product. Ask yourself, "How little can I build and still provide value to this customer?"
+
+A few questions to help you get started:
 
 - [ ] Will it have a web site or service?
-- [ ] Can you use Parse or CloudKit instead of building your own.
-	- you're not worried about lock in, you can change to something else after you have the $$ from your success. Right now, you're focused on spending as little as possible on dev costs to get that initial success
+- [ ] Can you use Parse or CloudKit instead of building your own backend?
+	- you're not worried about lock in at this point, you can change to something else after you've proved traction. Right now, you're focused on spending as little money as possible on dev costs to get that initial validation
 - [ ] iPhone? iPad? Android? Mobile web? Native?
-- [ ] "If i didn't build feature X, is it still useful?" Then don't build feature X.
+- [ ] "What if i didn't build feature X?" If it'd still be useful, then don't build feature X.
 	
 ## Build a Landing Page
 
