@@ -12,6 +12,18 @@ My name is [Adam Wulf](https://twitter.com/adamwulf), and I've worked on mobile 
 
 This guide is a collection of lessons learned.
 
+## What
+This guide goes through all of the necessary steps for buiding and launching your product, specifically focused on app dev. In particule, this guide covers:
+
+0. Helpful books and resources
+1. Narrowing down your app idea
+2. Validating that idea
+3. Defining your Busines Model
+4. Validating with a Prototype
+5. Building your app
+6. Launch!
+7. Post-launch growth
+
 ## Contribute
 I missed some stuff! I'm only one guy with my own limited experience. If you see that I've missed some info or have helpful resources to share, submit an issue or PR, or just [get in touch](http://twitter.com/adamwulf)
 
@@ -160,7 +172,7 @@ You should aim for roughly %5 to 10% of those people following your account back
 No one will bother following an inactive account, so post relevant content to that account consitsently - at least once a day. A free [Buffer](http://bufferapp.com) account can make that super easy to manage.
 
 
-# Step 3: Define Success
+# Step 3: Your Business Model
 
 We're on step 3 and we still barely built anything! I know your inner engineer is cringing, but believe me this is good news. It means you haven't wasted any of your dev time on an idea that'd otherwise fail out of the gate.
 
@@ -233,7 +245,7 @@ At this point, you have:
 - [ ] a business model with a well defined MVP that executes that idea
 
 
-## Estimate Success
+## Define Success
 
 You have all of the information necessary to decide "will it work?". Success is different for different people. Maybe you just want some hobby money. Maybe you just want it to break even, put it on your resume, and trade up in job. Maybe you want to go full time indie app dev, and this is your ticket. For all of these, you need to think through:
 
@@ -242,30 +254,38 @@ You have all of the information necessary to decide "will it work?". Success is 
 - [ ] How many customers exist for my product (known from market research)
 - [ ] Given my conversion rates, how much traffic to I need to generate to meet these goals?
 
-# Step 3: Make a Prototype
+Your goal here is to figure out how many users you need to get to know if your app will be successful. This gives you a concrete goal to aim towards with your marketing. It'll take you out of "lots of users! viral! hockey stick!" and focus you towards concrete user goals.
+
+
+# Step 4: Make a Prototype
 
 - [ ] Use something like [proto.io](https://proto.io) or [popapp.in](https://popapp.in) to make a quick prototype
+- [ ] Alternatively, make a video that fakes someone using a "finished" app to help you get the point across
 - [ ] Show people in your audience. Validate you're on the right track
 
 Don't spend more than a few days building out a prototype. You only want to build enough to validate that you've got the right audience <=> product match.
 
 By this point, you (a) have an audience and (b) have a proof of concept. If people aren't lining up, then you're doing something wrong. Either your marketing is off, audience is off, or product is off.
 
-Iterate on the idea and marketing to prove you're on the right track before commiting serious dev time in the next step.
+Iterate on the idea and marketing to prove that (a) you're product is on the right track and (b) you can connect with your audience before commiting serious dev time in the next step.
 
 
-# Step 4: Bulding the App
+# Step 5: Building the App
 
-Throw away your prototype. Holy moly don't use that as a foundation going forward. Actually throw it away, do not re-use any of its code.
+Throw away your prototype. Don't use that as a foundation going forward. Actually throw it away, _do not re-use any of its code_. For most engineers this is obvious, but it can be easy to think "oh look it's nearly done!" or "This can help jumpstart serious dev!" These are both lies, and you'll end up paying for it at the end of your dev cycle if you continue with prototype code.
 
-## Planning your Timline
+## Planning your Timeline
 plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% of your timeline for QA.
+
+Also remember the enginering maxim: "The first 90% of the product took the first 90% of our time, and the last 10% of the product took the last **90%** of the time!" When in doubt, double your engineering estimate for any given task.
 
 Purposefully decide on priority of:
 
 1. feature list
 2. quality
 3. timeline
+
+You cannot have all three of these - you must prioritize your timeline, quality, or feature list at the sacrifice of the others.
 
 Every product and development decision you make should be weighed against this priority list.
 
@@ -277,15 +297,14 @@ Every product and development decision you make should be weighed against this p
 - [ ] QA the app
 	- [ ] Manual regression tests. These are high cost but difficult to automate
 	- [ ] Automated unit tests. write these for high value and tricky code.
-	- [ ] Automated UI tests. I haven't done these for mobile, but have been super helpful for past web work. Xcode has tools for this.
-- [ ] Get beta users asap
+	- [ ] Automated UI tests. I haven't done these for mobile, but have been super helpful for past web work. Xcode has tools for this. [KIF](https://github.com/kif-framework/KIF) is another great option.
+- [ ] Get beta users ASAP
 	- excited beta users are best, the fall off rate for beta users can be high, so always be finding and adding new testers
 
-Just because you're building somethign doesn't mean you can forget about building your audience. Remember to stay on top of Twitter/FB/etc and stay connected to your customers.
+Just because you're building something doesn't mean you can forget about building your audience. Remember to stay on top of Twitter/FB/etc and stay connected to your customers.
 
 - [ ] [Vine](http://vine.co) - Make a vine account and post short 5s videos showing your progress as you build the app
 	- People love seeing progress, and sometimes you'll be surprised at what hits a nerve and gets re-shared
-
 
 
 
@@ -302,14 +321,15 @@ The goal here is to start getting 3rd party people talking about you, even if ju
 		- how/why you started the company
 		- the problems of your current target audience
 		- interesting tech you've created as you built your product
-	
+- [ ] Brainstorm ideas from the channels you read about earlier in [Traction](http://amzn.to/1DBn0Lo)
+	- schedule these ideas into your development schedule
 	
 
 ## Public Buzz Building Beta
 
 - [ ] Submit to BetaList
 - [ ] Submit to PreApps
-- [ ] continue building community, and feed those people into your beta signups
+- [ ] Continue building community, and feed those people into your beta signups
 - [ ] Get Feedback Feedback Feedback!
 
 At this point you're very close to launch. The app is "ready" but not ready. The most important thing to do now is make sure that new users are effective when they start up your app for the first time.
@@ -323,14 +343,42 @@ At this point you're very close to launch. The app is "ready" but not ready. The
 Beta will help you catch user confusion and awkward onboarding flows that you weren't able to catch in the prototype / survey phase. You're goal here isn't building new features, it's making sure new users understand your current features and can be effective.
 
 
+## Confession Time
+
+I didn't do nearly enough beta testing before launching [Loose Leaf](https://getlooseleaf.com). While I did add in lots of behavior tracking, I didn't have enough data pre-launch to see problems with my first-time user flow.
+
+It turns out that the new-user tutorial content I had in the app was severely lacking for some features, and that translated to a pretty severe drop-off rate for new users. I've had to spend time post-launch rebuilding new tutorial content to explain some features.
+
+
+## Check In
+
+At this point, you have:
+
+- [ ] a finished app!
+- [ ] a launch website that speaks to your audience and asks for (and converts!) their email address
+- [ ] a list of potential customers awaiting your launch email
+- [ ] inbound links and traction from 3rd party sites linking to your product
+
+
 # Step 6-∞
 
-Nearly there! Now submit to the store
+** This section has more info coming, it's incomplete **
+
+Nearly there! Now submit to the store!
+
+## Your App's Story
+You've learned ask you've pitched to your target audience: nobody cares about new apps or new features - People only care about how you solve their problems. You should have a 2 setentence pitch for your app describing the problem you solve, why you're the one that sovles it, and how someone can get your app.
+
+This is the message you want to send out to your target audience at launch. As you ask for reviews from sites, it's this story that you can pitch to them. "This is why you're readers, podcast listeners, etc will care about this."
+
+Remember from [Trust Me I'm Lying](http://amzn.to/1Adie3W) that bloggers and press don't care about sending you traffic, they care about _you sending them traffic_! If your story resonates with their audience, then the review will generate page views on their article, and only then will they care about it.
+
+Before you reach out to press, understand why their audience will care. And since you've already grown traction with your market with a well defined problem + solution, this should be an easy pitch!
 
 ## App Store Optimization
 
 - [ ] [Find the right keywords](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective)
-- [ ] Title, Keywords, Description
+- [ ] Write up your app's Title, Keywords, Description
 - [ ] Screenshots w/ context
 - [ ] [Make an App Preview video](http://blog.getlooseleaf.com/post/107205893655/step-by-step-making-an-itunes-app-preview)
 
@@ -349,4 +397,8 @@ Nearly there! Now submit to the store
 - [ ] Set your go-live date to sometime in the future, don't let it auto-go-live
 - [ ] List of sites to submit your app as you enter Beta
 - [ ] Lits of sites to submit your app the few weeks before launch
+- [ ] Line up multiple sites to write about your app when it goes live
 
+# Post-launch
+
+** additional info here about iterating on ideas from [Traction](http://amzn.to/1DBn0Lo), and continuing audience growth**
