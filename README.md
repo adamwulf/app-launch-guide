@@ -27,6 +27,9 @@ This guide goes through all of the necessary steps for validating, buiding, mark
 ## Contribute
 I missed some stuff! I'm only one guy with my own limited experience. If you see that I've missed some info or have helpful resources to share, submit an issue or PR, or just [get in touch](http://twitter.com/adamwulf)
 
+### License
+I'm providing this guide for free and releasing it into the public domain.
+
 
 # Step 0: Read these Books
 
