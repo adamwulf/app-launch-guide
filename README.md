@@ -13,7 +13,7 @@ My name is [Adam Wulf](https://twitter.com/adamwulf), and I've worked on mobile 
 This guide is a collection of lessons learned.
 
 ## What
-This guide goes through all of the necessary steps for buiding and launching your product, specifically focused on app dev. In particule, this guide covers:
+This guide goes through all of the necessary steps for validating, buiding, marketing, and launching your product, specifically focused on app dev. In particule, this guide covers:
 
 0. Helpful books and resources
 1. Narrowing down your app idea
