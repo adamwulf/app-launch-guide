@@ -175,9 +175,56 @@ You should aim for roughly %5 to 10% of those people following your account back
 No one will bother following an inactive account, so post relevant content to that account consitsently - at least once a day. A free [Buffer](http://bufferapp.com) account can make that super easy to manage.
 
 
-# Step 3: Your Business Model
+# Step 3: Connect With Your Audience
 
-We're on step 3 and we still barely built anything! I know your inner engineer is cringing, but believe me this is good news. It means you haven't wasted any of your dev time on an idea that'd otherwise fail out of the gate.
+Now that you have a landing page for your app, you're ready to start sending traffic to it to build email signups.
+
+## Collect Your Ideas
+
+The most valuable advice I recieved from traction: brainstorm ideas to market my app in every channel I could imagine. The book walks through 19 different marketing channels, everything from content marketing, to paid ads, to an outside sales team.
+
+As you read through Traction, setup a simple spreadsheet and collect _all_ of your marketing ideas for each channel.
+
+For each idea, track:
+
+ - A short description of the idea
+ - the marketing channel it fits in: content, PR, Ads, etc
+ - How much it'd cost to see if it works
+ - expected amount of traffic the idea could generate
+ - (1-5) for how likely this idea is to work
+
+After going through this process myself, I came away with nearly 50 ideas that might generate traffic for [Loose Leaf](https://getlooseleaf.com), and the vast majority of those ideas were free!
+
+Remember: there is no such thing as a bad idea! Collect all of your ideas, don't let any slip away!
+
+To get you started, here's just a few of the ideas I came up with for Loose Leaf:
+
+ - Sign up for HARO: [http://www.helpareporter.com/](http://www.helpareporter.com/)
+ - Run a sponsored ad for a week on a high profile blog
+ - Open source portions of the codebase
+ - Be more active in local meetups, meet more people
+ - Find list of top bloggers in my target audience, and reach out for advice and/or sponsored post
+ - Livestream development of the app, and post status updates to Vine
+
+
+## Sort Your Ideas
+
+Now that you've got your list, sort it by how likely it is to work and how expensive it would be to implement.
+
+Now you've got your prioritized list of marketing ideas, it's time to start executing.
+
+## Find What Works
+
+From now until launch you'll want to slowly work through this list. Your goal should be to execute at least 1 new idea per week.
+
+Keep in mind that some ideas will take longer to execute than others. Running an ad for instance only takes a bit of time to write the ad and push it live - it's 100% passive after that. Some ideas will take weeks before you'll know if they pay off.
+
+As an example: I started livestreaming iOS development in January, but it wasn't until late February that it started to pay off with any traffic - and suddenly in April [with multiple](http://money.cnn.com/2015/04/07/technology/watch-people-code-livecoding/) [news articles](http://www.itworld.com/article/2907129/think-different-by-live-streaming-your-coding-sessions.html). I had the least confidence in this idea, and so far it's generated more traffic than nearly anything else I've tried. This just reiterates that you should record _all_ of your ideas, and slowly iterate through each of them - don't leave any page unturned.
+
+
+# Step 4: Your Business Model
+
+We're on step 4 and we still barely built anything! I know your inner engineer is cringing, but believe me this is good news. It means you haven't wasted any of your dev time on an idea that'd otherwise fail out of the gate.
 
 Today is the inflection point, we're nearly to the building phase, just a little further to go.
 
@@ -244,7 +291,7 @@ At this point, you have:
 
 - [ ] a solid idea of your target market
 - [ ] a product idea that's been validated from the above market
-- [ ] a list of potential customers, and a website that's generating more
+- [ ] a list of marketing ideas that you're slowly working through
 - [ ] a business model with a well defined MVP that executes that idea
 
 
@@ -260,7 +307,7 @@ You have all of the information necessary to decide "will it work?". Success is 
 Your goal here is to figure out how many users you need to get to know if your app will be successful. This gives you a concrete goal to aim towards with your marketing. It'll take you out of "lots of users! viral! hockey stick!" and focus you towards concrete user goals.
 
 
-# Step 4: Make a Prototype
+# Step 5: Make a Prototype
 
 - [ ] Use something like [proto.io](https://proto.io) or [popapp.in](https://popapp.in) to make a quick prototype
 - [ ] Alternatively, make a video that fakes someone using a "finished" app to help you get the point across
@@ -273,7 +320,7 @@ By this point, you (a) have an audience and (b) have a proof of concept. If peop
 Iterate on the idea and marketing to prove that (a) you're product is on the right track and (b) you can connect with your audience before commiting serious dev time in the next step.
 
 
-# Step 5: Building the App
+# Step 6: Building the App
 
 Throw away your prototype. Don't use that as a foundation going forward. Actually throw it away, _do not re-use any of its code_. For most engineers this is obvious, but it can be easy to think "oh look it's nearly done!" or "This can help jumpstart serious dev!" These are both lies, and you'll end up paying for it at the end of your dev cycle if you continue with prototype code.
 
@@ -315,6 +362,8 @@ Just because you're building something doesn't mean you can forget about buildin
 
 The goal here is to start getting 3rd party people talking about you, even if just to say that you exist. Inbound links to your site from credible 3rd parties helps increase rankings in Google, and also helps validate you to press as you start pitching later.
 
+You've already started this process in Step 3, and now it's really time to double down. You should've gone through a fair number of ideas from your original brainstorm, here's a few more to keep you going:
+
 - [ ] Sign up for [HARO](http://www.helpareporter.com)
 	- this site connects reporters to sources, and is an easy way to get quoted in the press.
 	- They send you daily email(s) with pitches from press. Simply reply w/ your response and info for a chance to be included in the story with a link to your site
@@ -324,8 +373,8 @@ The goal here is to start getting 3rd party people talking about you, even if ju
 		- how/why you started the company
 		- the problems of your current target audience
 		- interesting tech you've created as you built your product
-- [ ] Brainstorm ideas from the channels you read about earlier in [Traction](http://amzn.to/1DBn0Lo)
-	- schedule these ideas into your development schedule
+- [ ] Brainstorm even more ideas from the channels you read about earlier in [Traction](http://amzn.to/1DBn0Lo)
+	- schedule these ideas into your development schedule - even put tasks in your issue tracker
 	
 
 ## Public Buzz Building Beta
@@ -361,16 +410,17 @@ At this point, you have:
 - [ ] a launch website that speaks to your audience and asks for (and converts!) their email address
 - [ ] a list of potential customers awaiting your launch email
 - [ ] inbound links and traction from 3rd party sites linking to your product
+- [ ] a short list of marketing strategies that are working, and a long list of marketing ideas still to try
 
 
-# Step 6-∞
+# Step 7-∞
 
 ** This section has more info coming, it's incomplete **
 
 Nearly there! Now submit to the store!
 
-## Your App's Story
-You've learned ask you've pitched to your target audience: nobody cares about new apps or new features - People only care about how you solve their problems. You should have a 2 setentence pitch for your app describing the problem you solve, why you're the one that sovles it, and how someone can get your app.
+## Pitch Your App's Story
+By now you've probably already learned: nobody cares about new apps or new features - People only care about how you solve their problems. You should have a 2 sentence pitch for your app describing the problem you solve, why you're the one that sovles it, and how someone can get your app.
 
 This is the message you want to send out to your target audience at launch. As you ask for reviews from sites, it's this story that you can pitch to them. "This is why you're readers, podcast listeners, etc will care about this."
 
@@ -380,14 +430,28 @@ Before you reach out to press, understand why their audience will care. And sinc
 
 ## App Store Optimization
 
+Over 50% of people find apps to download [just by searching the app store](http://www.businessinsider.com/chart-of-the-day-how-people-find-apps-2012-8). Not deal sites, not app reviews, not through Google - it's the App Store search. That's why it's incredibly important to spend some time on App Store Optimization (ASO).
+
 - [ ] [Find the right keywords](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective)
 - [ ] Write up your app's Title, Keywords, Description
 - [ ] Screenshots w/ context
 - [ ] [Make an App Preview video](http://blog.getlooseleaf.com/post/107205893655/step-by-step-making-an-itunes-app-preview)
 
+## App Submission
+
+Now that your app is done, it's time to submit to the app store!
+
+- [ ] Set your go-live date to sometime in the future, don't let it auto-go-live
+- [ ] List of sites to submit your app as you enter Beta
+- [ ] Lits of sites to submit your app the few weeks before launch
+- [ ] Line up multiple sites to write about your app when it goes live
+
 ## Pitch to Review Sites
 
-- [ ] You should have connected w/ some by this point, reach back out and let them know you've submitted
+Once your app has been reviewed by the App Store, has been approved, and has it's release date set some time in the future - now it's time to pitch all of the app review sites that you can.
+
+- [ ] Even though your app isn't live, you can still generate promo codes to give to reviewers! This is a much easier way to get them the app to review than TestFlight or Hockey, etc
+- [ ] You should have connected w/ some reviewers by this point, reach back out and let them know you've submitted
 - [ ] Keep your email brief, bullet point list
 - important info:
 	- [ ] Name and iTunes URL of app
@@ -395,13 +459,23 @@ Before you reach out to press, understand why their audience will care. And sinc
 	- [ ] Links to promo videos / app preview video
 	- [ ] link to .zip press kit that includes screenshots and logo
 
-## App Submission
+# Launch!
 
-- [ ] Set your go-live date to sometime in the future, don't let it auto-go-live
-- [ ] List of sites to submit your app as you enter Beta
-- [ ] Lits of sites to submit your app the few weeks before launch
-- [ ] Line up multiple sites to write about your app when it goes live
+And now the marathon begins!
 
-# Post-launch
+- [ ] Email your list and let them know it's live! Ask for downloads _and reviews_.
+- [ ] Track daily active users and daily new users
+     - If active users isn't growing with new users, than your active users are just churning and leaving. Find out why and keep them engaged.
+- [ ] Watch you Mixpanel and Crashlytics feedback for trends, and adjust the app as necessary
+- [ ] Continue iterating on your marketing idea spreadsheet
 
-** additional info here about iterating on ideas from [Traction](http://amzn.to/1DBn0Lo), and continuing audience growth**
+
+# Contribute!
+
+This guide is open for a reason - Feel free to fork and contribute your own ideas and edits back for us all to improve from.
+
+As an indie dev, we don't have funding, a marketing department, or golden handshakes with insiders - anythign we can do to help advise each other is invaluable.
+
+Reach out to me on twitter: [@adamwulf](https://twitter.com/adamwulf)
+
+Follow Loose Leaf's story at: [http://blog.getlooseleaf.com](http://blog.getlooseleaf.com)
