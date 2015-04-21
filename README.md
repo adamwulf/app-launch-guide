@@ -443,7 +443,7 @@ Now that your app is done, it's time to submit to the app store!
 
 - [ ] Set your go-live date to sometime in the future, don't let it auto-go-live
 - [ ] List of sites to submit your app as you enter Beta
-- [ ] Lits of sites to submit your app the few weeks before launch
+- [ ] List of sites to submit your app the few weeks before launch
 - [ ] Line up multiple sites to write about your app when it goes live
 
 ## Pitch to Review Sites
@@ -474,7 +474,7 @@ And now the marathon begins!
 
 This guide is open for a reason - Feel free to fork and contribute your own ideas and edits back for us all to improve from.
 
-As an indie dev, we don't have funding, a marketing department, or golden handshakes with insiders - anythign we can do to help advise each other is invaluable.
+As an indie dev, we don't have funding, a marketing department, or golden handshakes with insiders - anything we can do to help advise each other is invaluable.
 
 Reach out to me on twitter: [@adamwulf](https://twitter.com/adamwulf)
 
