@@ -59,6 +59,10 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [Find Keywords for App Store](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective) - Free - Blog post detailing how to objectively find the right keywords for your App Store description
 	- [SensorTower](https://sensortower.com/) - Free - Helps with competitor and keyword research
 	- [ASO Keyword Spreadsheet](https://docs.google.com/spreadsheets/d/1QDlCM8Q0H_MBBef-kHb74b05DRRlLye1MFdp6GF-wdc/edit?usp=sharing) - Free - Spreadsheet to help measure keywords
+- Podcasts
+	- [Inquisitive](https://itunes.apple.com/us/podcast/inquisitive/id909109678?mt=2&uo=4&at=10lNUI&ct=github) with Myke Hurley from Relay FM
+	- [The App Guy Podcast](https://itunes.apple.com/us/podcast/the-app-guy-podcast-the-app-guy/id771670010?mt=2&uo=4&at=10lNUI&ct=github) with Paul Kemp
+	- [App Masters](https://itunes.apple.com/us/podcast/app-masters-mobile-growth/id643216602?mt=2&uo=4&at=10lNUI&ct=github) with Steve  P. Young
 
 # Step 1: Find some App Ideas
 
