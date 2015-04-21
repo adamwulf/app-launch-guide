@@ -39,7 +39,8 @@ Take a few evenings and read through these books. They're incredibly helpful in 
 	- Awesome book describing the incentives of big press and how to "trade up" from smaller to larger sites
 - [ ] [Traction, by Gabriel Weinberg](http://amzn.to/1DBn0Lo)
 	- Describes 19 marketing channels any start up can use, and a process for trying them out
-
+- [ ] [Pitch Perfect by Erica Sadun & Steve Sande](http://www.amazon.com/Pitch-Perfect-The-Promoting-Your/dp/0321917618)
+	- Covers the art of promoting your app on the web
 
 ### Additional Resource List
 Throughout this guide, I'll reference a number of great resources, some free and some cheap. Here are all the resources in one place:
