@@ -33,14 +33,12 @@ I'm providing this guide for free and releasing it into the public domain.
 
 # Step 0: Read these Books
 
-Take a few evenings and read through these books. They're incredibly helpful in explaining the incentives of press/web/sites/buzz/etc, and also give concrete advice and ideas for how to market your app.
+Take a few evenings and read through these two books. They're incredibly helpful in explaining the incentives of press/web/buzz/etc, and they also give concrete advice and ideas for marketing your app. Out of all the references I list below, these two have influenced me the most and continue to affect how I weigh nearly every other decision and resource. Read these.
 
 - [ ] [Trust Me I'm Lying, by Ryan Holiday](http://amzn.to/1Adie3W)
 	- Awesome book describing the incentives of big press and how to "trade up" from smaller to larger sites
 - [ ] [Traction, by Gabriel Weinberg](http://amzn.to/1DBn0Lo)
 	- Describes 19 marketing channels any start up can use, and a process for trying them out
-- [ ] [Pitch Perfect by Erica Sadun & Steve Sande](http://www.amazon.com/Pitch-Perfect-The-Promoting-Your/dp/0321917618)
-	- Covers the art of promoting your app on the web
 
 ### Additional Resource List
 Throughout this guide, I'll reference a number of great resources, some free and some cheap. Here are all the resources in one place:
@@ -56,6 +54,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [AppFigures](https://appfigures.com) - Free/Cheap - Automated sales and app review reports
 	- [iTunes Affiliate](https://www.apple.com/itunes/affiliates/) - Free - Lets you track (sort of) how links into the iTunes Store convert into sales. Also lets you scratch back some of the 30% that Apple takes
 - Press / PR / Marketing
+	- [Pitch Perfect by Erica Sadun & Steve Sande](http://www.amazon.com/Pitch-Perfect-The-Promoting-Your/dp/0321917618) - Covers the art of pitching and promoting your app on the web
 	- [HARO](http://www.helpareporter.com) - Free - Daily emails from press asking for sources for their stories
 	- [Find Keywords for App Store](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective) - Free - Blog post detailing how to objectively find the right keywords for your App Store description
 	- [SensorTower](https://sensortower.com/) - Free - Helps with competitor and keyword research
