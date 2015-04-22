@@ -130,7 +130,7 @@ To help organize your potential audience, I suggest keeping a spreadsheet in Goo
 
 You can learn so much just by listening to the conversations in each group. Twitter is ripe for complaining, so it's a great way to listen in and hear if they're ever actually complaining about the problem you're aiming to solve in the first place.
 
-It's also a great way to jump into related conversaions when it's appropriate. If you genuinely have something to add, or can anwer a question they post, it's a great way to connect and get to know your audience better.
+It's also a great way to jump into related conversations when it's appropriate. If you genuinely have something to add, or can anwer a question they post, it's a great way to connect and get to know your audience better.
      
 ## Define Your MVP
 
@@ -140,7 +140,7 @@ A few questions to help you get started:
 
 - [ ] Will it have a web site or service?
 - [ ] Can you use Parse or CloudKit instead of building your own backend?
-	- you're not worried about lock in at this point, you can change to something else after you've proved traction. Right now, you're focused on spending as little money as possible on dev costs to get that initial validation
+	- you're not worried about lock-in at this point, you can change to something else after you've proved traction. Right now, you're focused on spending as little money as possible on dev costs to get that initial validation
 - [ ] iPhone? iPad? Android? Mobile web? Native?
 - [ ] "What if i didn't build feature X?" If it'd still be useful, then don't build feature X.
 
