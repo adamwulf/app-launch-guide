@@ -37,7 +37,7 @@ Take a few evenings and read through these two books. They're incredibly helpful
 
 - [ ] [Trust Me I'm Lying, by Ryan Holiday](http://amzn.to/1Adie3W)
 	- Awesome book describing the incentives of big press and how to "trade up" from smaller to larger sites
-- [ ] [Traction, by Gabriel Weinberg](http://amzn.to/1DBn0Lo)
+- [ ] [Traction, by Gabriel Weinberg and Justin Mares](http://amzn.to/1DBn0Lo)
 	- Describes 19 marketing channels any start up can use, and a process for trying them out
 
 ### Additional Resource List
