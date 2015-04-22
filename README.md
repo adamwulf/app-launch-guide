@@ -177,7 +177,7 @@ One simple way to test conversions:
 
 You should aim for roughly %5 to 10% of those people following your account back, and roughly 20% of those that click through should be converting on your site into email addresses. If that's not the case, then you've missed your audience, missed your product, missed your pitch of the product, or all three.
 
-No one will bother following an inactive account, so post relevant content to that account consitsently - at least once a day. A free [Buffer](http://bufferapp.com) account can make that super easy to manage.
+No one will bother following an inactive account, so post relevant content to that account consistently - at least once a day. A free [Buffer](http://bufferapp.com) account can make that super easy to manage.
 
 
 # Step 3: Connect With Your Audience
@@ -186,7 +186,7 @@ Now that you have a landing page for your app, you're ready to start sending tra
 
 ## Collect Your Ideas
 
-The most valuable advice I recieved from traction: brainstorm ideas to market my app in every channel I could imagine. The book walks through 19 different marketing channels, everything from content marketing, to paid ads, to an outside sales team.
+The most valuable advice I recieved from Traction: brainstorm ideas to market my app in every channel I could imagine. The book walks through 19 different marketing channels, everything from content marketing, to paid ads, to an outside sales team.
 
 As you read through Traction, setup a simple spreadsheet and collect _all_ of your marketing ideas for each channel.
 
@@ -209,7 +209,8 @@ To get you started, here's just a few of the ideas I came up with for Loose Leaf
  - Open source portions of the codebase
  - Be more active in local meetups, meet more people
  - Find list of top bloggers in my target audience, and reach out for advice and/or sponsored post
- - Livestream development of the app, and post status updates to Vine
+ - Livestream development of the app
+ - Post coding / UI status updates to Vine
 
 
 ## Sort Your Ideas
@@ -256,7 +257,7 @@ Common models for apps, pick **one**:
 - [ ] Advertising    
 	- I hesitate to even list this one, it's usually the cop-out business model. You should know that you need **huge** traffic to make ad revenue work. "It'll be viral and we'll make crazy ad revenue" is not a business model.
 
-I can't count the number of times I hear founders talk about the myriad ways they'll make money. "We'll have ads! And paid upgrade! And sell t-shirts! and of course subscription revenue from our pro users!" This is your first clue that you don't understand your audience, go back to the start of Step 2 and get more feedback from your potential customers. You can expand to more revenue streams _after_ success, but for launch you need to pick _one_.
+I can't count the number of times I hear founders talk about the myriad ways they'll make money. "We'll have ads! And paid upgrades! And sell t-shirts! and of course subscription revenue from our pro users!" This is your first clue that you don't understand your audience, go back to the start of Step 2 and get more feedback from your potential customers. You can expand to more revenue streams _after_ success, but for launch you need to pick _one_.
 
 You should have 1 revenue model, and be working to validate that 1 model starting right now. If that model doesn't end up working out, you'll find out soon and can iterate to a new model - that's fine. It's better to pick one => prove it wrong => move to a second model. Trying too many models at once confuses your users, confuses your dev schedule, and confuses your success metrics.
 
@@ -285,7 +286,7 @@ To give you an idea how different conversion rates can be depending on product a
 
 Remember how I didn't properly validate my target market early on with [Loose Leaf](https://getlooseleaf.com)? That mistake compounded here.
 
-Since I was aiming at a professional manager target audience, I launched with a up-front-paid-for app. "Professional managers won't have a problem paying a tiny amount for a professional app they'll use for work." That might've been true if I'd gotten traction from that audience, but teachers and students gave me much much larger traction, and they don't have the expendable income that professional managers do.
+Since I was aiming at a professional manager target audience, I launched with a up-front-paid-for app. "Professional managers won't have a problem paying a tiny amount for a professional app they'll use for work." That might've been true if I'd gotten traction from that audience, but teachers and students gave me much larger traction, and they don't have the expendable income that professional managers do.
 
 I had the wrong audience in mind, so I chose the wrong revenue model. Oops! Four months after launch I was finally able to pivot into a free app with IAP to better target these education users. It was a costly mistake, and set me back dramatically.
 
@@ -330,7 +331,7 @@ Iterate on the idea and marketing to prove that (a) you're product is on the rig
 Throw away your prototype. Don't use that as a foundation going forward. Actually throw it away, _do not re-use any of its code_. For most engineers this is obvious, but it can be easy to think "oh look it's nearly done!" or "This can help jumpstart serious dev!" These are both lies, and you'll end up paying for it at the end of your dev cycle if you continue with prototype code.
 
 ## Planning your Timeline
-plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% of your timeline for QA.
+Plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% of your timeline for QA.
 
 Also remember the enginering maxim: "The first 90% of the product took the first 90% of our time, and the last 10% of the product took the last **90%** of the time!" When in doubt, double your engineering estimate for any given task.
 
@@ -427,7 +428,7 @@ Nearly there! Now submit to the store!
 ## Pitch Your App's Story
 By now you've probably already learned: nobody cares about new apps or new features - People only care about how you solve their problems. You should have a 2 sentence pitch for your app describing the problem you solve, why you're the one that sovles it, and how someone can get your app.
 
-This is the message you want to send out to your target audience at launch. As you ask for reviews from sites, it's this story that you can pitch to them. "This is why you're readers, podcast listeners, etc will care about this."
+This is the message you want to send out to your target audience at launch. As you ask for reviews from sites, it's this story that you can pitch to them. "This is why you're readers, podcast listeners, etc, will care about this."
 
 Remember from [Trust Me I'm Lying](http://amzn.to/1Adie3W) that bloggers and press don't care about sending you traffic, they care about _you sending them traffic_! If your story resonates with their audience, then the review will generate page views on their article, and only then will they care about it.
 
@@ -471,16 +472,33 @@ And now the marathon begins!
 - [ ] Email your list and let them know it's live! Ask for downloads _and reviews_.
 - [ ] Track daily active users and daily new users
      - If active users isn't growing with new users, than your active users are just churning and leaving. Find out why and keep them engaged.
-- [ ] Watch you Mixpanel and Crashlytics feedback for trends, and adjust the app as necessary
+- [ ] Watch your Mixpanel and Crashlytics feedback for trends, and adjust the app as necessary
 - [ ] Continue iterating on your marketing idea spreadsheet
 
+# "Am I too late?"
+What if you've already launched your app, or are already neck deep in product development, is it too late to start? Should you just skip the first half of this guide and pick it up somewhere in the middle?
+
+Nope and nope!
+
+It's never too late to start working through this marketing plan and synchronizing it into your development schedule. The most important thing is to start wherever you are now and take concrete steps toward where you want to be: connected to your target audience and building a product they're eager for.
+
+## Redemption Time
+I've confessed many of my mistakes with Loose Leaf, chief among them: I started with the wrong audience, wrong revenue model, and didn't have a marketing plan till post-launch. Oops?
+
+However!
+
+Shortly after launch, I buckled down and started reading, learning, and then _implementing_ a marketing plan for Loose Leaf. That was November. I pushed through the Traction spreadsheet I'd built, following everything I just wrote about in this plan, and it paid off big time in March with nearly [100k downloads in one weekend](http://blog.getlooseleaf.com/post/113969679734/100k-downloads-in-1-weekend)! And it's continued to work with another near 18k downloads over the following month!
+
+It can be a tough road, and it can sometimes take longer than we'd like, but it works. This is a marathon, not a sprint.
 
 # Contribute!
 
-This guide is open for a reason - Feel free to fork and contribute your own ideas and edits back for us all to improve from.
+This guide is open for a reason - Feel free to fork and contribute your own ideas and edits back for us all to improve from. This guide is a living document, I'll continue to update it with additional info and ideas as I can, and as often as I get suggestions, feedback, and contributions from you!
 
-As an indie dev, we don't have funding, a marketing department, or golden handshakes with insiders - anything we can do to help advise each other is invaluable.
+As indie devs, we don't have funding, a marketing department, or golden handshakes with insiders - anything we can do to help advise each other is invaluable.
 
 Reach out to me on twitter: [@adamwulf](https://twitter.com/adamwulf)
 
 Follow Loose Leaf's story at: [http://blog.getlooseleaf.com](http://blog.getlooseleaf.com)
+
+And go [download Loose Leaf](https://itunes.apple.com/us/app/loose-leaf/id625659452?mt=8&uo=4&at=10lNUI&ct=github) and show your fellow indie dev some love! ;) 
