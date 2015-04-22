@@ -8,12 +8,12 @@ The goal is to combine the concrete product development schedule with an equally
 The outline below will combine marketing and product deadlines into a single timeline, so that you can plan for both the marketing and product cycle in tandem.
 
 ## Who
-My name is [Adam Wulf](https://twitter.com/adamwulf), and I've worked on mobile apps both in large and also as an indie developer. I have recently launched [Loose Leaf](https://getlooseleaf.com) and am launching [Remotely](http://getremotely.com) very soon, and I launched [Here File File](http://www.macstories.net/iphone/here-file-file/) long ago. I've also developed mobile apps at an enterprise company and also a small agency for a number of clients.
+My name is [Adam Wulf](https://twitter.com/adamwulf), and I've developed mobile apps in an enterprise company, for clients at a small design agency, and currently as an indie developer. I have recently launched [Loose Leaf](https://getlooseleaf.com) and am launching [Remotely](http://getremotely.com) very soon, and I launched [Here File File](http://www.macstories.net/iphone/here-file-file/) long ago. I've also developed mobile apps at an enterprise company and also a small agency for a number of clients.
 
 This guide is a collection of lessons learned.
 
 ## What
-This guide goes through all of the necessary steps for validating, buiding, marketing, and launching your product, specifically focused on app dev. In particule, this guide covers:
+This guide goes through all of the necessary steps for validating, buiding, marketing, and launching your product, specifically focused on app dev. In particular, this guide covers:
 
 0. Helpful books and resources
 1. Narrowing down your app idea
