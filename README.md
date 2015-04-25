@@ -31,7 +31,7 @@ I missed some stuff! I'm only one guy with my own limited experience. If you see
 I'm providing this guide for free and releasing it into the public domain.
 
 
-# Step 0: Read these Books
+# Step 0: Read These Books
 
 Take a few evenings and read through these two books. They're incredibly helpful in explaining the incentives of press/web/buzz/etc, and they also give concrete advice and ideas for marketing your app. Out of all the references I list below, these two have influenced me the most and continue to affect how I weigh nearly every other decision and resource. Read these.
 
@@ -66,7 +66,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [The App Guy Podcast](https://itunes.apple.com/us/podcast/the-app-guy-podcast-the-app-guy/id771670010?mt=2&uo=4&at=10lNUI&ct=github) with Paul Kemp
 	- [App Masters](https://itunes.apple.com/us/podcast/app-masters-mobile-growth/id643216602?mt=2&uo=4&at=10lNUI&ct=github) with Steve  P. Young
 
-# Step 1: Find some App Ideas
+# Step 1: Find Some App Ideas
 
 Every good app starts with a good idea, and we all have too many ideas already. This first step will help us filter these into a short list that might work.
 
@@ -98,7 +98,7 @@ Look for similar apps that are already in the store. Don't lie to yourself that 
 
 Find out how much (a) or (b) already exist, and how.
 
-### Next up: Validate your idea
+### Next Up: Validate Your Idea
 
 That wasn't so bad! At this point you should have a list of ideas where you've (a) defined the problem (b) defined the audience and (c) defined your solution compared to existing solutions.
 
@@ -110,7 +110,7 @@ Most startups fail because they can't find customers, not because they don't hav
 
 For each idea that's made it through Step 1 filters, you'll want to follow this process until you find one that sticks.
 
-## Confession time
+## Confession Time
 I skipped this step when I was developing [Loose Leaf](https://getlooseleaf.com), and I paid the price for it. It took me nearly 4 months _post-launch_ until I had validated a proper target marketing for Loose Leaf, and that was after 2 years of development! It turns out product/design managers don't care about Loose Leaf like it'd thought, but teachers and students love the app. What a wasted opportunity - I'm still playing catch up!
 
 This is something that we were sure to get right with [Remotely](http://gracefulmade.com/remotely/) - pre launch we already have near 5000 email subscriptions and engaged twitter followers eager for the launch.
@@ -141,18 +141,18 @@ A few questions to help you get started:
 
 - [ ] Will it have a web site or service?
 - [ ] Can you use Parse or CloudKit instead of building your own backend?
-	- you're not worried about lock-in at this point, you can change to something else after you've proved traction. Right now, you're focused on spending as little money as possible on dev costs to get that initial validation
+	- You're not worried about lock-in at this point, you can change to something else after you've proved traction. Right now, you're focused on spending as little money as possible on dev costs to get that initial validation
 - [ ] iPhone? iPad? Android? Mobile web? Native?
-- [ ] "What if i didn't build feature X?" If it'd still be useful, then don't build feature X.
+- [ ] "What if i didn't build feature X?" If it'd still be useful, then don't build feature X
 
 ## Check In
 
 At this point, you should know:
 
-- [ ] who your target market is
-- [ ] where you can reach your target market online and offline
-- [ ] a rough idea of the problem they have
-- [ ] a rough idea of the solution you want to sell them
+- [ ] Who your target market is
+- [ ] Where you can reach your target market online and offline
+- [ ] A rough idea of the problem they have
+- [ ] A rough idea of the solution you want to sell them
 
 If one of those isn't true for you, look back at the previous sections and clarify until you're ready.
 	
@@ -162,8 +162,8 @@ Now you know who your customers are, where they are, and what you want to sell t
 
 This website will do a few things for you:
 
- - these are the people most likely to buy your product on day one
- - it'll further validate that your customers actually want what you're building
+ - These are the people most likely to buy your product on day one
+ - It'll further validate that your customers actually want what you're building
 
 I use [Mad Mimi](https://madmimi.com/short_ref/nyw) to manage my email list, but there's lots of options out there for free and for cheap.
 
@@ -172,11 +172,10 @@ You should aim for 5% to 10% of incoming traffic to convert into an email addres
 One simple way to test conversions:
 
 1. Find influential Twitter users who have followers in your target audience.
-2. Setup a Twitter account (fill out the bio + icon + etc. tweet a bit to flesh out the profile. 
-3. Make sure to add a link to your landing page in your bio.)
-4. auto-follow their followers.
+2. Setup a Twitter account (fill out the bio + icon + etc. tweet a bit to flesh out the profile. Make sure to add a link to your landing page in your bio.)
+3. auto-follow their followers.
 
-You should aim for roughly %5 to 10% of those people following your account back, and roughly 20% of those that click through should be converting on your site into email addresses. If that's not the case, then you've missed your audience, missed your product, missed your pitch of the product, or all three.
+You should aim for roughly 5-10% of those people following your account back, and roughly 20% of those that click through should be converting on your site into email addresses. If that's not the case, then you've missed your audience, missed your product, missed your pitch of the product, or all three.
 
 No one will bother following an inactive account, so post relevant content to that account consistently - at least once a day. A free [Buffer](http://bufferapp.com) account can make that super easy to manage.
 
@@ -194,9 +193,9 @@ As you read through Traction, setup a simple spreadsheet and collect _all_ of yo
 For each idea, track:
 
  - A short description of the idea
- - the marketing channel it fits in: content, PR, Ads, etc
+ - The marketing channel it fits in: content, PR, Ads, etc
  - How much it'd cost to see if it works
- - expected amount of traffic the idea could generate
+ - Expected amount of traffic the idea could generate
  - (1-5) for how likely this idea is to work
 
 After going through this process myself, I came away with nearly 50 ideas that might generate traffic for [Loose Leaf](https://getlooseleaf.com), and the vast majority of those ideas were free!
@@ -258,13 +257,13 @@ Common models for apps, pick **one**:
 - [ ] Advertising    
 	- I hesitate to even list this one, it's usually the cop-out business model. You should know that you need **huge** traffic to make ad revenue work. "It'll be viral and we'll make crazy ad revenue" is not a business model.
 
-I can't count the number of times I hear founders talk about the myriad ways they'll make money. "We'll have ads! And paid upgrades! And sell t-shirts! and of course subscription revenue from our pro users!" This is your first clue that you don't understand your audience, go back to the start of Step 2 and get more feedback from your potential customers. You can expand to more revenue streams _after_ success, but for launch you need to pick _one_.
+I can't count the number of times I hear founders talk about the myriad ways they'll make money. "We'll have ads! And paid upgrades! And sell t-shirts! and of course subscription revenue from our pro users!" This is your first clue that you don't understand your audience. Go back to the start of Step 2 and get more feedback from your potential customers. You can expand to more revenue streams _after_ success, but for launch you need to pick _one_.
 
-You should have 1 revenue model, and be working to validate that 1 model starting right now. If that model doesn't end up working out, you'll find out soon and can iterate to a new model - that's fine. It's better to pick one => prove it wrong => move to a second model. Trying too many models at once confuses your users, confuses your dev schedule, and confuses your success metrics.
+You should have one revenue model, and be working to validate that 1 model starting right now. If that model doesn't end up working out, you'll find out soon and can iterate to a new model - that's fine. It's better to pick one => prove it wrong => move to a second model. Trying too many models at once confuses your users, confuses your dev schedule, and confuses your success metrics.
 
 ## Estimate Lifetime Revenue / User
 
-Everytime someone downloads your app, how much money do you make? The estimate for this number will be different for each app, category, and revenue model.
+Every time someone downloads your app, how much money do you make? The estimate for this number will be different for each app, category, and revenue model.
 
 Here's a few numbers to help you estimate what your $/download might look like:
 
@@ -331,16 +330,16 @@ Iterate on the idea and marketing to prove that (a) you're product is on the rig
 
 Throw away your prototype. Don't use that as a foundation going forward. Actually throw it away, _do not re-use any of its code_. For most engineers this is obvious, but it can be easy to think "oh look it's nearly done!" or "This can help jumpstart serious dev!" These are both lies, and you'll end up paying for it at the end of your dev cycle if you continue with prototype code.
 
-## Planning your Timeline
+## Planning Your Timeline
 Plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% of your timeline for QA.
 
 Also remember the enginering maxim: "The first 90% of the product took the first 90% of our time, and the last 10% of the product took the last **90%** of the time!" When in doubt, double your engineering estimate for any given task.
 
 Purposefully decide on priority of:
 
-1. feature list
-2. quality
-3. timeline
+1. Feature list
+2. Quality
+3. Timeline
 
 You cannot have all three of these - you must prioritize your timeline, quality, or feature list at the sacrifice of the others.
 
@@ -356,7 +355,7 @@ Every product and development decision you make should be weighed against this p
 	- [ ] Automated unit tests. write these for high value and tricky code.
 	- [ ] Automated UI tests. I haven't done these for mobile, but have been super helpful for past web work. Xcode has tools for this. [KIF](https://github.com/kif-framework/KIF) is another great option.
 - [ ] Get beta users ASAP
-	- excited beta users are best, the fall off rate for beta users can be high, so always be finding and adding new testers
+	- Excited beta users are best, the fall off rate for beta users can be high, so always be finding and adding new testers
 
 Just because you're building something doesn't mean you can forget about building your audience. Remember to stay on top of Twitter/FB/etc and stay connected to your customers.
 
@@ -365,23 +364,23 @@ Just because you're building something doesn't mean you can forget about buildin
 
 
 
-## Collect inbound links
+## Collect Inbound Links
 
 The goal here is to start getting 3rd party people talking about you, even if just to say that you exist. Inbound links to your site from credible 3rd parties helps increase rankings in Google, and also helps validate you to press as you start pitching later.
 
 You've already started this process in Step 3, and now it's really time to double down. You should've gone through a fair number of ideas from your original brainstorm, here's a few more to keep you going:
 
 - [ ] Sign up for [HARO](http://www.helpareporter.com)
-	- this site connects reporters to sources, and is an easy way to get quoted in the press.
+	- This site connects reporters to sources, and is an easy way to get quoted in the press.
 	- They send you daily email(s) with pitches from press. Simply reply w/ your response and info for a chance to be included in the story with a link to your site
 - [ ] Start a company/dev blog
 	- I've recieved lots of traction from [Loose Leaf's dev blog](http://blog.getlooseleaf.com), it's been great for inbound links
 	- Start posting interesting content about anything. some ideas:
-		- how/why you started the company
-		- the problems of your current target audience
-		- interesting tech you've created as you built your product
+		- How/why you started the company
+		- The problems of your current target audience
+		- Interesting tech you've created as you built your product
 - [ ] Brainstorm even more ideas from the channels you read about earlier in [Traction](http://amzn.to/1DBn0Lo)
-	- schedule these ideas into your development schedule - even put tasks in your issue tracker
+	- Schedule these ideas into your development schedule - even put tasks in your issue tracker
 	
 
 ## Public Buzz Building Beta
@@ -460,7 +459,7 @@ Once your app has been reviewed by the App Store, has been approved, and has it'
 - [ ] Even though your app isn't live, you can still generate promo codes to give to reviewers! This is a much easier way to get them the app to review than TestFlight or Hockey, etc
 - [ ] You should have connected w/ some reviewers by this point, reach back out and let them know you've submitted
 - [ ] Keep your email brief, bullet point list
-- important info:
+- Important info:
 	- [ ] Name and iTunes URL of app
 	- [ ] Date it'll be live (You should already be approved + set this in itunes connect)
 	- [ ] Links to promo videos / app preview video
@@ -476,7 +475,7 @@ And now the marathon begins!
 - [ ] Watch your Mixpanel and Crashlytics feedback for trends, and adjust the app as necessary
 - [ ] Continue iterating on your marketing idea spreadsheet
 
-# "Am I too late?"
+# "Am I Too Late?"
 What if you've already launched your app, or are already neck deep in product development, is it too late to start? Should you just skip the first half of this guide and pick it up somewhere in the middle?
 
 Nope and nope!
