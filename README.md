@@ -45,6 +45,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 
 - Books
 	- [Pitch Perfect by Erica Sadun & Steve Sande](http://www.amazon.com/Pitch-Perfect-The-Promoting-Your/dp/0321917618) - Covers the art of pitching and promoting your app on the web
+	- [Getting Real by 37 Signals](https://gettingreal.37signals.com) - The smarter, faster, easier way to build a successful web application - also applies to mobile apps and you can get a Free PDF version or order a physical copy.
 - Social
 	- [Buffer App](http://bufferapp.com) - Free - easy auto-post to your twitter so you dont need to baby sit it.
 	- [Mad Mimi](https://madmimi.com/short_ref/nyw) - Free/Cheap - Easily manage your email list
