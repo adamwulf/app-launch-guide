@@ -1,7 +1,7 @@
 ﻿# An App Launch Guide
 
 ## Why
-This guide is aimed at indie developers who are building and launching their iOS apps largely by themselves. The guide will walk through planning, pre-launch, marketing, product dev, QA, and launch.
+This guide is aimed at indie developers who are building and launching their iOS apps largely by themselves. The guide will walk through planning, pre-launch, marketing, product development, QA, and launch.
 
 The goal is to combine the concrete product development schedule with an equally concrete marketing schedule so that nothing is missed.
 
@@ -38,29 +38,29 @@ Take a few evenings and read through these two books. They're incredibly helpful
 - [ ] [Trust Me I'm Lying, by Ryan Holiday](http://amzn.to/1Adie3W)
 	- Awesome book describing the incentives of big press and how to "trade up" from smaller to larger sites
 - [ ] [Traction, by Gabriel Weinberg and Justin Mares](http://amzn.to/1DBn0Lo)
-	- Describes 19 marketing channels any start up can use, and a process for trying them out
+	- Describes 19 marketing channels any start-up can use, and a process for trying them out
 
 ### Additional Resource List
 Throughout this guide, I'll reference a number of great resources, some free and some cheap. Here are all the resources in one place:
 
 - Books
-	- [Pitch Perfect by Erica Sadun & Steve Sande](http://www.amazon.com/Pitch-Perfect-The-Promoting-Your/dp/0321917618) - Covers the art of pitching and promoting your app on the web
-	- [Getting Real by 37 Signals](https://gettingreal.37signals.com) - The smarter, faster, easier way to build a successful web application - also applies to mobile apps and you can get a Free PDF version or order a physical copy.
+	- [Pitch Perfect by Erica Sadun & Steve Sande](http://www.amazon.com/Pitch-Perfect-The-Promoting-Your/dp/0321917618) — Covers the art of pitching and promoting your app on the web
+	- [Getting Real by 37 Signals](https://gettingreal.37signals.com) — The smarter, faster, easier way to build a successful web application — also applies to mobile apps and you can get a free PDF version or order a physical copy.
 - Social
-	- [Buffer App](http://bufferapp.com) - Free - easy auto-post to your twitter so you dont need to baby sit it.
-	- [Mad Mimi](https://madmimi.com/short_ref/nyw) - Free/Cheap - Easily manage your email list
-	- [Vine](http://vine.co) - Free - Great way to show your dev progress visually to your audience
-	- [TweetDeck](https://tweetdeck.twitter.com/) - Free - Easily stay on top of multiple lists of influencers so you can jump into the conversation when appropriate
+	- [Buffer App](http://bufferapp.com) — Free — Easily schedule posts to your Twitter so you don’t need to baby sit it.
+	- [Mad Mimi](https://madmimi.com/short_ref/nyw) — Free/Cheap — Easily manage your email list
+	- [Vine](http://vine.co) — Free — Great way to show your development progress visually to your audience
+	- [TweetDeck](https://tweetdeck.twitter.com/) — Free — Easily stay on top of multiple lists of influencers so you can jump into the conversation when appropriate
 - Tracking
-	- [Mixpanel](http://mixpanel.com) - Free - Track user behavior to determine success/fail of onboarding
-	- [Crashlytics](http://crashlytics.com) - Free - Automated crash reports and beta distribution
-	- [AppFigures](https://appfigures.com) - Free/Cheap - Automated sales and app review reports
-	- [iTunes Affiliate](https://www.apple.com/itunes/affiliates/) - Free - Lets you track (sort of) how links into the iTunes Store convert into sales. Also lets you scratch back some of the 30% that Apple takes. [It's worth it](http://awkwardhare.com/post/117029547150/use-the-itunes-affiliate-program-its-worth-it).
+	- [Mixpanel](http://mixpanel.com) — Free — Track user behavior to determine success/fail of onboarding
+	- [Crashlytics](http://crashlytics.com) — Free — Automated crash reports and beta distribution
+	- [AppFigures](https://appfigures.com) — Free/Cheap — Automated sales and app review reports
+	- [iTunes Affiliate](https://www.apple.com/itunes/affiliates/) — Free — Lets you track (sort of) how links into the iTunes Store convert into sales. Also lets you scratch back some of the 30% that Apple takes. [It's worth it](http://awkwardhare.com/post/117029547150/use-the-itunes-affiliate-program-its-worth-it).
 - Press / PR / Marketing
-	- [HARO](http://www.helpareporter.com) - Free - Daily emails from press asking for sources for their stories
-	- [Find Keywords for App Store](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective) - Free - Blog post detailing how to objectively find the right keywords for your App Store description
-	- [SensorTower](https://sensortower.com/) - Free - Helps with competitor and keyword research
-	- [ASO Keyword Spreadsheet](https://docs.google.com/spreadsheets/d/1QDlCM8Q0H_MBBef-kHb74b05DRRlLye1MFdp6GF-wdc/edit?usp=sharing) - Free - Spreadsheet to help measure keywords
+	- [HARO](http://www.helpareporter.com) — Free — Daily emails from press asking for sources for their stories
+	- [Find Keywords for App Store](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective) — Free — Blog post detailing how to objectively find the right keywords for your App Store description
+	- [SensorTower](https://sensortower.com/) — Free — Helps with competitor and keyword research
+	- [ASO Keyword Spreadsheet](https://docs.google.com/spreadsheets/d/1QDlCM8Q0H_MBBef-kHb74b05DRRlLye1MFdp6GF-wdc/edit?usp=sharing) — Free — Spreadsheet to help measure keywords
 - Podcasts
 	- [Inquisitive](https://itunes.apple.com/us/podcast/inquisitive/id909109678?mt=2&uo=4&at=10lNUI&ct=github) with Myke Hurley from Relay FM
 	- [The App Guy Podcast](https://itunes.apple.com/us/podcast/the-app-guy-podcast-the-app-guy/id771670010?mt=2&uo=4&at=10lNUI&ct=github) with Paul Kemp
@@ -70,15 +70,15 @@ Throughout this guide, I'll reference a number of great resources, some free and
 
 Every good app starts with a good idea, and we all have too many ideas already. This first step will help us filter these into a short list that might work.
 
-These ideas will change throughout the process, and that's ok. The only important thing is that you have a general direction you're headed. Nothing is proven, nothing is set in stone, this idea is just pointing you in a direction, any direction.
+These ideas will change throughout the process, and that's ok. The only important thing is that you have a general direction you're headed. Nothing is proven; nothing is set in stone; this idea is just pointing you in a direction: any direction.
 
-- [ ] List out all of your app ideas, don't filter yet, everything is a winner
+- [ ] List out all of your app ideas; don't filter yet: everything is a winner
 
 Next:
 
 - [ ] For each app idea, define the problem you solve
 
-Each app idea should have a 1 sentence "This is the problem I solve." If you can't distill the problem into 1 sentence, then either (a) it's not really a problem, or (b) you don't actually understand the problem your idea solves. Clarify the problems, or axe it in our first filter below.
+Each app idea should have a one sentence "This is the problem I solve." If you can't distill the problem into one sentence, then either (a) it's not really a problem, or (b) you don't actually understand the problem your idea solves. Clarify the problems, or axe it in our first filter below.
 
 For [Loose Leaf](https://getlooseleaf.com), my problem was "All the existing apps are digital notebooks for ideas you keep, I need digital scratch paper for super fast and rough brainstorming."
 
@@ -111,9 +111,9 @@ Most startups fail because they can't find customers, not because they don't hav
 For each idea that's made it through Step 1 filters, you'll want to follow this process until you find one that sticks.
 
 ## Confession Time
-I skipped this step when I was developing [Loose Leaf](https://getlooseleaf.com), and I paid the price for it. It took me nearly 4 months _post-launch_ until I had validated a proper target marketing for Loose Leaf, and that was after 2 years of development! It turns out product/design managers don't care about Loose Leaf like I’d thought, but teachers and students love the app. What a wasted opportunity - I'm still playing catch up!
+I skipped this step when I was developing [Loose Leaf](https://getlooseleaf.com), and I paid the price for it. It took me nearly 4 months _post-launch_ until I had validated a proper target marketing for Loose Leaf, and that was after 2 years of development! It turns out product/design managers don't care about Loose Leaf like I’d thought, but teachers and students love the app. What a wasted opportunity — I'm still playing catch up!
 
-This is something that we were sure to get right with [Remotely](http://gracefulmade.com/remotely/) - pre-launch we already have near 5000 email subscriptions and engaged Twitter followers eager for the launch.
+This is something that we were sure to get right with [Remotely](http://gracefulmade.com/remotely/) — pre-launch we already have near 5000 email subscriptions and engaged Twitter followers eager for the launch.
 
 ## Find Your Community
 
@@ -135,13 +135,13 @@ It's also a great way to jump into related conversations when it's appropriate. 
      
 ## Define Your MVP
 
-Now that you've started listening to and getting connected to your audience, you should have enough information to make a rough pass at a Minimum Viable Product. Ask yourself, "How little can I build and still provide value to this customer?"
+Now that you've started listening to and getting connected to your audience, you should have enough information to make a rough pass at a *minimum viable product*. Ask yourself, "How little can I build and still provide value to this customer?"
 
 A few questions to help you get started:
 
 - [ ] Will it have a website or service?
-- [ ] Can you use Parse or CloudKit instead of building your own backend?
-	- You're not worried about lock-in at this point, you can change to something else after you've proved traction. Right now, you're focused on spending as little money as possible on dev costs to get that initial validation
+- [ ] Can you use [Parse](https://www.parse.com) or [CloudKit](https://developer.apple.com/library/ios/documentation/CloudKit/Reference/CloudKit_Framework_Reference/) instead of building your own backend?
+	- You're not worried about lock-in at this point, you can change to something else after you've proved traction. Right now, you're focused on spending as little money as possible on development costs to get that initial validation
 - [ ] iPhone? iPad? Android? Mobile web? Native?
 - [ ] "What if i didn't build feature X?" If it'd still be useful, then don't build feature X
 
@@ -172,12 +172,12 @@ You should aim for 5% to 10% of incoming traffic to convert into an email addres
 One simple way to test conversions:
 
 1. Find influential Twitter users who have followers in your target audience.
-2. Setup a Twitter account (fill out the bio + icon + etc. tweet a bit to flesh out the profile. Make sure to add a link to your landing page in your bio.)
-3. auto-follow their followers.
+2. Setup a Twitter account (fill out the bio, icon, etc. tweet a bit to flesh out the profile. Make sure to add a link to your landing page in your bio.)
+3. Auto-follow their followers.
 
-You should aim for roughly 5-10% of those people following your account back, and roughly 20% of those that click through should be converting on your site into email addresses. If that's not the case, then you've missed your audience, missed your product, missed your pitch of the product, or all three.
+You should aim for roughly 5% to 10% of those people following your account back, and roughly 20% of those that click through should be converting on your site into email addresses. If that's not the case, then you've missed your audience, missed your product, missed your pitch of the product, or all three.
 
-No one will bother following an inactive account, so post relevant content to that account consistently - at least once a day. A free [Buffer](http://bufferapp.com) account can make that super easy to manage.
+No one will bother following an inactive account, so post relevant content to that account consistently — at least once a day. A free [Buffer](http://bufferapp.com) account can make that super easy to manage.
 
 
 # Step 3: Connect With Your Audience
@@ -186,9 +186,9 @@ Now that you have a landing page for your app, you're ready to start sending tra
 
 ## Collect Your Ideas
 
-The most valuable advice I received from Traction: brainstorm ideas to market my app in every channel I could imagine. The book walks through 19 different marketing channels, everything from content marketing, to paid ads, to an outside sales team.
+The most valuable advice I received from [Traction](http://amzn.to/1DBn0Lo): brainstorm ideas to market my app in every channel I could imagine. The book walks through 19 different marketing channels, everything from content marketing, to paid ads, to an outside sales team.
 
-As you read through Traction, set up a simple spreadsheet and collect _all_ of your marketing ideas for each channel.
+As you read through [Traction](http://amzn.to/1DBn0Lo), set up a simple spreadsheet and collect _all_ of your marketing ideas for each channel.
 
 For each idea, track:
 
@@ -200,14 +200,14 @@ For each idea, track:
 
 After going through this process myself, I came away with nearly 50 ideas that might generate traffic for [Loose Leaf](https://getlooseleaf.com), and the vast majority of those ideas were free!
 
-Remember: there is no such thing as a bad idea! Collect all of your ideas, don't let any slip away!
+Remember: there is no such thing as a bad idea! Collect all of your ideas; don't let any slip away!
 
 To get you started, here's just a few of the ideas I came up with for Loose Leaf:
 
- - Sign up for HARO: [http://www.helpareporter.com/](http://www.helpareporter.com/)
+ - Sign up for [HARO](http://www.helpareporter.com/)
  - Run a sponsored ad for a week on a high profile blog
  - Open source portions of the codebase
- - Be more active in local meetups, meet more people
+ - Be more active in local meetups; meet more people
  - Find list of top bloggers in my target audience, and reach out for advice and/or sponsored post
  - Livestream development of the app
  - Post coding / UI status updates to Vine
@@ -221,16 +221,16 @@ Now you've got your prioritized list of marketing ideas, it's time to start exec
 
 ## Find What Works
 
-From now until launch you'll want to slowly work through this list. Your goal should be to execute at least 1 new idea per week.
+From now until launch you'll want to slowly work through this list. Your goal should be to execute at least one new idea per week.
 
-Keep in mind that some ideas will take longer to execute than others. Running an ad for instance only takes a bit of time to write the ad and push it live - it's 100% passive after that. Some ideas will take weeks before you'll know if they pay off.
+Keep in mind that some ideas will take longer to execute than others. Running an ad for instance only takes a bit of time to write the ad and push it live — it's 100% passive after that. Some ideas will take weeks before you'll know if they pay off.
 
-As an example: I started livestreaming iOS development in January, but it wasn't until late February that it started to pay off with any traffic - and suddenly in April [with multiple](http://money.cnn.com/2015/04/07/technology/watch-people-code-livecoding/) [news articles](http://www.itworld.com/article/2907129/think-different-by-live-streaming-your-coding-sessions.html). I had the least confidence in this idea, and so far it's generated more traffic than nearly anything else I've tried. This just reiterates that you should record _all_ of your ideas, and slowly iterate through each of them - don't leave any page unturned.
+As an example: I started livestreaming iOS development in January, but it wasn't until late February that it started to pay off with any traffic — and suddenly in April [with multiple](http://money.cnn.com/2015/04/07/technology/watch-people-code-livecoding/) [news articles](http://www.itworld.com/article/2907129/think-different-by-live-streaming-your-coding-sessions.html). I had the least confidence in this idea, and so far it's generated more traffic than nearly anything else I've tried. This just reiterates that you should record _all_ of your ideas, and slowly iterate through each of them — don't leave any page unturned.
 
 
 # Step 4: Your Business Model
 
-We're on step 4 and we still barely built anything! I know your inner engineer is cringing, but believe me this is good news. It means you haven't wasted any of your dev time on an idea that would otherwise fail out of the gate.
+We're on step 4 and we still barely built anything! I know your inner engineer is cringing, but believe me this is good news. It means you haven't wasted any of your development time on an idea that would otherwise fail out of the gate.
 
 Today is the inflection point, we're nearly to the building phase, just a little further to go.
 
@@ -241,8 +241,8 @@ This is your first best guess about how you'll make money. It's likely this will
 Common models for apps, pick **one**:
 
 - [ ] Sell an app for a fixed price
-    - [Loose Leaf](https://itunes.apple.com/us/app/loose-leaf/id625659452?mt=8&uo=4&at=10lNUI&ct=github) launched this way, we're a dying breed. [I recently changed to free with IAP](http://blog.getlooseleaf.com/post/115348248184/loose-leaf-is-free).
-    - games were recently [featured on the App Store](http://www.wired.co.uk/news/archive/2015-02/13/pay-once-and-play-apple-apps) that followed this model
+    - [Loose Leaf](https://itunes.apple.com/us/app/loose-leaf/id625659452?mt=8&uo=4&at=10lNUI&ct=github) launched this way; we're a dying breed. [I recently changed to free with IAP](http://blog.getlooseleaf.com/post/115348248184/loose-leaf-is-free).
+    - games were recently [featured on the App Store](http://www.wired.co.uk/news/archive/2015-02/13/pay-once-and-play-apple-apps) that followed this model
 - [ ] Free app, with single fixed price IAP to unlock all features
     - many productivity or reference apps do this to effectively provide a free trial
 - [ ] Free app, with multiple fixed price IAP, possibly consumables, to unlock different features
@@ -259,7 +259,7 @@ Common models for apps, pick **one**:
 
 I can't count the number of times I hear founders talk about the myriad ways they'll make money. "We'll have ads! And paid upgrades! And sell t-shirts! and of course subscription revenue from our pro users!" This is your first clue that you don't understand your audience. Go back to the start of Step 2 and get more feedback from your potential customers. You can expand to more revenue streams _after_ success, but for launch you need to pick _one_.
 
-You should have one revenue model, and be working to validate that 1 model starting right now. If that model doesn't end up working out, you'll find out soon and can iterate to a new model - that's fine. It's better to pick one => prove it wrong => move to a second model. Trying too many models at once confuses your users, confuses your dev schedule, and confuses your success metrics.
+You should have one revenue model, and be working to validate that one model starting right now. If that model doesn't end up working out, you'll find out soon and can iterate to a new model — that's fine. It's better to pick one and prove it wrong then move to a second model. Trying too many models at once confuses your users, confuses your development schedule, and confuses your success metrics.
 
 ## Estimate Lifetime Revenue / User
 
@@ -268,18 +268,18 @@ Every time someone downloads your app, how much money do you make? The estimate 
 Here are a few numbers to help you estimate what your $/download might look like:
 
  - email addresses that you collect will convert to downloads at 50%
- - paid apps will convert traffic => downloads at roughly 3 to 5%
- - free apps will convert traffic => downloads at roughly 20-30%
+ - paid apps will convert traffic to downloads at roughly 3% to 5%
+ - free apps will convert traffic to downloads at roughly 20% to 30%
  - free apps can convert users to IAP at roughly 3%
    - note that multiple IAP options will each have their own conversion rate
-   - so saying (3% paid app) > (30% * 3% from free app) isn't strictly true
+   - so saying (3% paid app) > (30% × 3% from free app) isn't strictly true
    - 3% conversion to monthly subscription is much more than 3% once up front paid app for instance.
  - Ads will be $1 / 1000 app launches
- - out of app conversions - hardware, desktop software, etc. - will convert at < 1%
+ - out of app conversions — hardware, desktop software, etc. — will convert at < 1%
 
 Of course these are super rough numbers, and might be dramatically different depending on your audience and model, but they should give you a good rough start.
 
-To give you an idea how different conversion rates can be depending on product and audience, check out the [post at Sensor Tower that compares avg $/user by app store category](https://blog.sensortower.com/blog/2015/04/16/how-much-money-ios-apps-make-per-download-by-category/).
+To give you an idea how different conversion rates can be depending on product and audience, check out the [post at Sensor Tower that compares average revenue per user by App Store category](https://blog.sensortower.com/blog/2015/04/16/how-much-money-ios-apps-make-per-download-by-category/).
 
 
 ## Confession Time
@@ -303,7 +303,7 @@ At this point, you have:
 
 ## Define Success
 
-You have all of the information necessary to decide "will it work?". Success is different for different people. Maybe you just want some hobby money. Maybe you just want it to break even, put it on your resume, and trade up in job. Maybe you want to go full-time indie app dev, and this is your ticket. For all of these, you need to think through:
+You have all of the information necessary to decide "will it work?". Success is different for different people. Maybe you just want some hobby money. Maybe you just want it to break even, put it on your resume, and trade up in job. Maybe you want to become a full-time indie app developer, and this is your ticket. For all of these, you need to think through:
 
 - [ ] How much $$ do I *need* to make (not want, need)
 - [ ] How much $$ do I make per user (known from your business model)
@@ -319,16 +319,16 @@ Your goal here is to figure out how many users you need to get to know if your a
 - [ ] Alternatively, make a video that fakes someone using a "finished" app to help you get the point across
 - [ ] Show people in your audience. Validate you're on the right track
 
-Don't spend more than a few days building out a prototype. You only want to build enough to validate that you've got the right audience <=> product match.
+Don't spend more than a few days building out a prototype. You only want to build enough to validate that you've got the right audience-product match.
 
 By this point, you (a) have an audience and (b) have a proof of concept. If people aren't lining up, then you're doing something wrong. Either your marketing is off, audience is off, or product is off.
 
-Iterate on the idea and marketing to prove that (a) your product is on the right track and (b) you can connect with your audience before committing serious dev time in the next step.
+Iterate on the idea and marketing to prove that (a) your product is on the right track and (b) you can connect with your audience before committing serious development time in the next step.
 
 
 # Step 6: Building the App
 
-Throw away your prototype. Don't use that as a foundation going forward. Actually throw it away, _do not re-use any of its code_. For most engineers this is obvious, but it can be easy to think "oh look it's nearly done!" or "This can help jumpstart serious dev!" These are both lies, and you'll end up paying for it at the end of your dev cycle if you continue with prototype code.
+Throw away your prototype. Don't use that as a foundation going forward. Actually throw it away, _do not re-use any of its code_. For most engineers this is obvious, but it can be easy to think "oh look it's nearly done!" or "This can help jumpstart serious dev!" These are both lies, and you'll end up paying for it at the end of your development cycle if you continue with prototype code.
 
 ## Planning Your Timeline
 Plan out roughly how long you have to build the app. However much time you give yourself, that's how long it'll take. Make sure to budget 30% of your timeline for QA.
@@ -341,7 +341,7 @@ Purposefully decide on priority of:
 2. Quality
 3. Timeline
 
-You cannot have all three of these - you must prioritize your timeline, quality, or feature list at the sacrifice of the others.
+You cannot have all three of these — you must prioritize your timeline, quality, or feature list at the sacrifice of the others.
 
 Every product and development decision you make should be weighed against this priority list.
 
@@ -359,7 +359,7 @@ Every product and development decision you make should be weighed against this p
 
 Just because you're building something doesn't mean you can forget about building your audience. Remember to stay on top of Twitter/FB/etc. and stay connected to your customers.
 
-- [ ] [Vine](http://vine.co) - Make a vine account and post short 5s videos showing your progress as you build the app
+- [ ] [Vine](http://vine.co) — Make a Vine account and post short five second videos showing your progress as you build the app
 	- People love seeing progress, and sometimes you'll be surprised at what hits a nerve and gets re-shared
 
 
@@ -372,15 +372,15 @@ You've already started this process in Step 3, and now it's really time to doubl
 
 - [ ] Sign up for [HARO](http://www.helpareporter.com)
 	- This site connects reporters to sources, and is an easy way to get quoted in the press.
-	- They send you daily email(s) with pitches from press. Simply reply w/ your response and info for a chance to be included in the story with a link to your site
-- [ ] Start a company/dev blog
-	- I've received lots of traction from [Loose Leaf's dev blog](http://blog.getlooseleaf.com), it's been great for inbound links
+	- They send you daily email(s) with pitches from press. Simply reply with your response and info for a chance to be included in the story with a link to your site
+- [ ] Start a company/development blog
+	- I've received lots of traction from [Loose Leaf's development blog](http://blog.getlooseleaf.com), it's been great for inbound links
 	- Start posting interesting content about anything. Some ideas:
 		- How/why you started the company
 		- The problems of your current target audience
 		- Interesting tech you've created as you built your product
 - [ ] Brainstorm even more ideas from the channels you read about earlier in [Traction](http://amzn.to/1DBn0Lo)
-	- Schedule these ideas into your development schedule - even put tasks in your issue tracker
+	- Schedule these ideas into your development schedule — even put tasks in your issue tracker
 	
 
 ## Public Buzz Building Beta
@@ -394,7 +394,7 @@ At this point, you're very close to launch. The app is "ready" but not ready. Th
 
 - [ ] What makes a new user "successful" when they use your app?
 	- take a photo? post a comment? sign up for an account? invite a friend? spend 5 minutes in app?
-	- there should be 1 thing a user does that's your goal for every user
+	- there should be one thing a user does that's your goal for every user
 - [ ] Track success rate of beta testers getting to this success point
 - [ ] Optimize your new user flow to minimize drop off for new users
 
@@ -426,42 +426,42 @@ At this point, you have:
 Nearly there! Now submit to the store!
 
 ## Pitch Your App's Story
-By now you've probably already learned: nobody cares about new apps or new features - People only care about how you solve their problems. You should have a 2 sentence pitch for your app describing the problem you solve, why you're the one that solves it, and how someone can get your app.
+By now you've probably already learned: nobody cares about new apps or new features. People only care about how you solve their problems. You should have a two sentence pitch for your app describing the problem you solve, why you're the one that solves it, and how someone can get your app.
 
-This is the message you want to send out to your target audience at launch. As you ask for reviews from sites, it's this story that you can pitch to them. "This is why you're readers, podcast listeners, etc., will care about this."
+This is the message you want to send out to your target audience at launch. As you ask for reviews from sites, it's this story that you can pitch to them. "This is why your readers, podcast listeners, etc., will care about this."
 
 Remember from [Trust Me I'm Lying](http://amzn.to/1Adie3W) that bloggers and press don't care about sending you traffic, they care about _you sending them traffic_! If your story resonates with their audience, then the review will generate page views on their article, and only then will they care about it.
 
-Before you reach out to press, understand why their audience will care. And since you've already grown traction with your market with a well-defined problem + solution, this should be an easy pitch!
+Before you reach out to press, understand why their audience will care. And since you've already grown traction with your market with a well-defined problem and solution, this should be an easy pitch!
 
-## App Store Optimization
+## App Store Optimization
 
-Over 50% of people find apps to download [just by searching the app store](http://www.businessinsider.com/chart-of-the-day-how-people-find-apps-2012-8). Not deal sites, not app reviews, not through Google - it's the App Store search. That's why it's incredibly important to spend some time on App Store Optimization (ASO).
+Over 50% of people find apps to download [just by searching the App Store](http://www.businessinsider.com/chart-of-the-day-how-people-find-apps-2012-8). Not deal sites, not app reviews, not through Google: it's the App Store search. That's why it's incredibly important to spend some time on App Store Optimization (ASO).
 
 - [ ] [Find the right keywords](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective)
 - [ ] Write up your app's Title, Keywords, Description
-- [ ] Screenshots w/ context
+- [ ] Screenshots with context
 - [ ] [Make an App Preview video](http://blog.getlooseleaf.com/post/107205893655/step-by-step-making-an-itunes-app-preview)
 
 ## App Submission
 
-Now that your app is done, it's time to submit to the app store!
+Now that your app is done, it's time to submit to the App Store!
 
-- [ ] Set your go-live date to sometime in the future, don't let it auto-go-live
+- [ ] Set your go-live date to sometime in the future: don't let it auto-go-live
 - [ ] List of sites to submit your app as you enter Beta
 - [ ] List of sites to submit your app the few weeks before launch
 - [ ] Line up multiple sites to write about your app when it goes live
 
 ## Pitch to Review Sites
 
-Once your app has been reviewed by the App Store, has been approved, and has it's release date set sometime in the future - now it's time to pitch all of the app review sites that you can.
+Once your app has been reviewed and approved for the App Store, and has its release date set sometime in the future — now it's time to pitch all of the app review sites that you can.
 
-- [ ] Even though your app isn't live, you can still generate promo codes to give to reviewers! This is a much easier way to get them the app to review than TestFlight or Hockey, etc
-- [ ] You should have connected w/ some reviewers by this point, reach back out and let them know you've submitted
+- [ ] Even though your app isn't live, you can still generate promo codes to give to reviewers! This is a much easier way to get them the app to review than TestFlight or Hockey, etc.
+- [ ] You should have connected with some reviewers by this point, reach back out and let them know you've submitted
 - [ ] Keep your email brief, bullet point list
 - Important info:
 	- [ ] Name and iTunes URL of app
-	- [ ] Date it'll be live (You should already be approved + set this in iTunes connect)
+	- [ ] Date it'll be live (You should already be approved and set this in iTunes Connect)
 	- [ ] Links to promo videos / app preview video
 	- [ ] link to .zip press kit that includes screenshots and logo
 
@@ -476,14 +476,14 @@ And now the marathon begins!
 - [ ] Continue iterating on your marketing idea spreadsheet
 
 # "Am I Too Late?"
-What if you've already launched your app, or are already neck deep in product development, is it too late to start? Should you just skip the first half of this guide and pick it up somewhere in the middle?
+What if you've already launched your app, or are already neck deep in product development: is it too late to start? Should you just skip the first half of this guide and pick it up somewhere in the middle?
 
 Nope and nope!
 
 It's never too late to start working through this marketing plan and synchronizing it into your development schedule. The most important thing is to start wherever you are now and take concrete steps toward where you want to be: connected to your target audience and building a product they're eager for.
 
 ## Redemption Time
-I've confessed many of my mistakes with Loose Leaf, chief among them: I started with the wrong audience, wrong revenue model, and didn't have a marketing plan till post-launch. Oops?
+I've confessed many of my mistakes with Loose Leaf, chief among them: I started with the wrong audience, wrong revenue model, and didn't have a marketing plan until post-launch. Oops?
 
 However!
 
@@ -493,12 +493,12 @@ It can be a tough road, and it can sometimes take longer than we'd like, but it 
 
 # Contribute!
 
-This guide is open for a reason - Feel free to fork and contribute your own ideas and edits back for us all to improve from. This guide is a living document, I'll continue to update it with additional info and ideas as I can, and as often as I get suggestions, feedback, and contributions from you!
+This guide is open for a reason: feel free to fork and contribute your own ideas and edits back for us all to improve from. This guide is a living document: I'll continue to update it with additional info and ideas as I can, and as often as I get suggestions, feedback, and contributions from you!
 
-As indie devs, we don't have funding, a marketing department, or golden handshakes with insiders - anything we can do to help advise each other is invaluable.
+As indie developers, we don't have funding, a marketing department, or golden handshakes with insiders — anything we can do to help advise each other is invaluable.
 
 Reach out to me on Twitter: [@adamwulf](https://twitter.com/adamwulf)
 
 Follow Loose Leaf's story at: [http://blog.getlooseleaf.com](http://blog.getlooseleaf.com)
 
-And go [download Loose Leaf](https://itunes.apple.com/us/app/loose-leaf/id625659452?mt=8&uo=4&at=10lNUI&ct=github) and show your fellow indie dev some love! ;) 
+And go [download Loose Leaf](https://itunes.apple.com/us/app/loose-leaf/id625659452?mt=8&uo=4&at=10lNUI&ct=github) and show your fellow indie developer some love! ;) 
