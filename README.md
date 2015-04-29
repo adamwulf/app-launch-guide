@@ -160,6 +160,8 @@ If one of those isn't true for you, look back at the previous sections and clari
 
 Now you know who your customers are, where they are, and what you want to sell them. Build a landing page that describes exactly those things, and start collecting email addresses. _If you can't get their email, you definitely can't get their money_.
 
+Services such as [Launchrock](https://www.launchrock.com/) exist to help you stand up a free website fairly quickly.
+
 This website will do a few things for you:
 
  - These are the people most likely to buy your product on day one
