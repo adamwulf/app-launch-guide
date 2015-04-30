@@ -62,7 +62,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [SensorTower](https://sensortower.com/) — Free — Helps with competitor and keyword research
 	- [ASO Keyword Spreadsheet](https://docs.google.com/spreadsheets/d/1QDlCM8Q0H_MBBef-kHb74b05DRRlLye1MFdp6GF-wdc/edit?usp=sharing) — Free — Spreadsheet to help measure keywords
 	- [Google Keyword Planner](https://adwords.google.com/ko/KeywordPlanner) — Free — Validate how relevant a product category is and determine existing demand.
-	- [Launchrock](https://www.launchrock.com/) - Free/Cheap - Quickly setup a website to start collecting potential users' email addresses.
+	- [KickoffLabs](http://kickofflabs.com) - Free / $29/mo - Quickly setup a website to start collecting email addresses. Their [Free plan](https://app.kickofflabs.com/signup/free) is limited, but just $29 gives you lots of options.
 - Podcasts
 	- [Inquisitive](https://itunes.apple.com/us/podcast/inquisitive/id909109678?mt=2&uo=4&at=10lNUI&ct=github) with Myke Hurley from Relay FM
 	- [The App Guy Podcast](https://itunes.apple.com/us/podcast/the-app-guy-podcast-the-app-guy/id771670010?mt=2&uo=4&at=10lNUI&ct=github) with Paul Kemp
