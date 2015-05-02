@@ -465,7 +465,7 @@ Once your app has been reviewed by the App Store, has been approved, and has it'
 - important info:
 	- [ ] Name and iTunes URL of app
 	- [ ] Date it'll be live (You should already be approved + set this in itunes connect)
-	- [ ] Links to promo videos / app preview video
+	- [ ] Links to promo videos / app preview video. [Deep linking to promo codes](http://www.716-labs.com/promoting-your-ios-app-by-sharing-deep-links-to-promo-codes) improves your chance of the reviewer downloading your app.
 	- [ ] link to .zip press kit that includes screenshots and logo
 
 # Launch!
