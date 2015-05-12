@@ -51,7 +51,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [Mad Mimi](https://madmimi.com/short_ref/nyw) — Free/Cheap — Easily manage your email list
 	- [Vine](http://vine.co) — Free — Great way to show your development progress visually to your audience
 	- [TweetDeck](https://tweetdeck.twitter.com/) — Free — Easily stay on top of multiple lists of influencers so you can jump into the conversation when appropriate
-        - [Crowdfire](https://www.crowdfireapp.com) - Free/Cheap - Easily auto-follow the followers of relevant twitter users to gain visibility.
+	- [Crowdfire](https://www.crowdfireapp.com) - Free/Cheap - Easily auto-follow the followers of relevant twitter users to gain visibility.
 - Tracking
 	- [Mixpanel](http://mixpanel.com) — Free — Track user behavior to determine success/fail of onboarding
 	- [Crashlytics](http://crashlytics.com) — Free — Automated crash reports and beta distribution
@@ -178,7 +178,7 @@ One simple way to test conversions:
 
 1. Find influential Twitter users who have followers in your target audience.
 2. Setup a Twitter account (fill out the bio, icon, etc. tweet a bit to flesh out the profile. Make sure to add a link to your landing page in your bio.)
-3. Auto-follow their followers. - You can use [Crowdfire's copy followers feature](https://www.crowdfireapp.com) for this.
+3. Auto-follow their followers. - You can use [Crowdfire](https://www.crowdfireapp.com)'s copy followers feature for this.
 
 You should aim for roughly 5% to 10% of those people following your account back, and roughly 20% of those that click through should be converting on your site into email addresses. If that's not the case, then you've missed your audience, missed your product, missed your pitch of the product, or all three.
 
