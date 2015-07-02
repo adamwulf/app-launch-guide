@@ -35,16 +35,16 @@ I'm providing this guide for free and releasing it into the public domain.
 
 Take a few evenings and read through these two books. They're incredibly helpful in explaining the incentives of press/web/buzz/etc, and they also give concrete advice and ideas for marketing your app. Out of all the references I list below, these two have influenced me the most and continue to affect how I weigh nearly every other decision and resource. Read these.
 
-- [ ] [Trust Me I'm Lying, by Ryan Holiday](http://amzn.to/1Adie3W)
+- [ ] [Trust Me I'm Lying, by Ryan Holiday](http://amzn.to/1HyGIKO)
 	- Awesome book describing the incentives of big press and how to "trade up" from smaller to larger sites
-- [ ] [Traction, by Gabriel Weinberg and Justin Mares](http://amzn.to/1DBn0Lo)
+- [ ] [Traction, by Gabriel Weinberg and Justin Mares](http://amzn.to/1el1C2F)
 	- Describes 19 marketing channels any start-up can use, and a process for trying them out
 
 ### Additional Resource List
 Throughout this guide, I'll reference a number of great resources, some free and some cheap. Here are all the resources in one place:
 
 - Books
-	- [Pitch Perfect by Erica Sadun & Steve Sande](http://www.amazon.com/Pitch-Perfect-The-Promoting-Your/dp/0321917618) — Covers the art of pitching and promoting your app on the web
+	- [Pitch Perfect by Erica Sadun & Steve Sande](http://amzn.to/1RT8sZY) — Covers the art of pitching and promoting your app on the web
 	- [Getting Real by 37 Signals](https://gettingreal.37signals.com) — The smarter, faster, easier way to build a successful web application — also applies to mobile apps and you can get a free PDF version or order a physical copy.
 - Social
 	- [Buffer App](http://bufferapp.com) — Free — Easily schedule posts to your Twitter so you don’t need to baby sit it.
@@ -191,9 +191,9 @@ Now that you have a landing page for your app, you're ready to start sending tra
 
 ## Collect Your Ideas
 
-The most valuable advice I received from [Traction](http://amzn.to/1DBn0Lo): brainstorm ideas to market my app in every channel I could imagine. The book walks through 19 different marketing channels, everything from content marketing, to paid ads, to an outside sales team.
+The most valuable advice I received from [Traction](http://amzn.to/1el1C2F): brainstorm ideas to market my app in every channel I could imagine. The book walks through 19 different marketing channels, everything from content marketing, to paid ads, to an outside sales team.
 
-As you read through [Traction](http://amzn.to/1DBn0Lo), set up a simple spreadsheet and collect _all_ of your marketing ideas for each channel.
+As you read through [Traction](http://amzn.to/1el1C2F), set up a simple spreadsheet and collect _all_ of your marketing ideas for each channel.
 
 For each idea, track:
 
@@ -384,7 +384,7 @@ You've already started this process in Step 3, and now it's really time to doubl
 		- How/why you started the company
 		- The problems of your current target audience
 		- Interesting tech you've created as you built your product
-- [ ] Brainstorm even more ideas from the channels you read about earlier in [Traction](http://amzn.to/1DBn0Lo)
+- [ ] Brainstorm even more ideas from the channels you read about earlier in [Traction](http://amzn.to/1el1C2F)
 	- Schedule these ideas into your development schedule — even put tasks in your issue tracker
 	
 
@@ -435,7 +435,7 @@ By now you've probably already learned: nobody cares about new apps or new featu
 
 This is the message you want to send out to your target audience at launch. As you ask for reviews from sites, it's this story that you can pitch to them. "This is why your readers, podcast listeners, etc., will care about this."
 
-Remember from [Trust Me I'm Lying](http://amzn.to/1Adie3W) that bloggers and press don't care about sending you traffic, they care about _you sending them traffic_! If your story resonates with their audience, then the review will generate page views on their article, and only then will they care about it.
+Remember from [Trust Me I'm Lying](http://amzn.to/1HyGIKO) that bloggers and press don't care about sending you traffic, they care about _you sending them traffic_! If your story resonates with their audience, then the review will generate page views on their article, and only then will they care about it.
 
 Before you reach out to press, understand why their audience will care. And since you've already grown traction with your market with a well-defined problem and solution, this should be an easy pitch!
 
