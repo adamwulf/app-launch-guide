@@ -48,6 +48,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [Getting Real by 37 Signals](https://gettingreal.37signals.com) — The smarter, faster, easier way to build a successful web application — also applies to mobile apps and you can get a free PDF version or order a physical copy.
 - Social
 	- [Buffer App](http://bufferapp.com) — Free — Easily schedule posts to your Twitter so you don’t need to baby sit it.
+	- [BuffPosts](http://buffposts.com) — Free — Automate searching and posting of top relevant content (keyword-based) into your Buffer account.
 	- [Mad Mimi](https://madmimi.com/short_ref/nyw) — Free/Cheap — Easily manage your email list
 	- [Vine](http://vine.co) — Free — Great way to show your development progress visually to your audience
 	- [TweetDeck](https://tweetdeck.twitter.com/) — Free — Easily stay on top of multiple lists of influencers so you can jump into the conversation when appropriate
