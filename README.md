@@ -68,6 +68,10 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [Inquisitive](https://itunes.apple.com/us/podcast/inquisitive/id909109678?mt=2&uo=4&at=10lNUI&ct=github) with Myke Hurley from Relay FM
 	- [The App Guy Podcast](https://itunes.apple.com/us/podcast/the-app-guy-podcast-the-app-guy/id771670010?mt=2&uo=4&at=10lNUI&ct=github) with Paul Kemp
 	- [App Masters](https://itunes.apple.com/us/podcast/app-masters-mobile-growth/id643216602?mt=2&uo=4&at=10lNUI&ct=github) with Steve  P. Young
+- Video Courses
+	- [Google Tech Entrepreneur](https://www.udacity.com/course/tech-entrepreneur-nanodegree--nd007) on Udacity
+	- [User Innovation: A Path to Entrepreneurship](https://www.edx.org/course/user-innovation-path-entrepreneurship-mitx-uinov8x) on EDX provided by Mitx
+
 
 # Step 1: Find Some App Ideas
 
