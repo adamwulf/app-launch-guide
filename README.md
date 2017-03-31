@@ -1,7 +1,7 @@
 # An App Launch Guide
 
 ## Why
-This guide is aimed at indie developers who are building and launching their iOS apps largely by themselves. The guide will walk through planning, pre-launch, marketing, product development, QA, and launch.
+This guide is aimed at indie developers who are building and launching their mobile apps largely by themselves. The guide will walk through planning, pre-launch, marketing, product development, QA, and launch.
 
 The goal is to combine the concrete product development schedule with an equally concrete marketing schedule so that nothing is missed.
 
