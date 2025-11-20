@@ -56,6 +56,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [Mixpanel](http://mixpanel.com) — Free — Track user behavior to determine success/fail of onboarding
 	- [Crashlytics](http://crashlytics.com) — Free — Automated crash reports and beta distribution
 	- [AppFigures](https://appfigures.com) — Free/Cheap — Automated sales and app review reports
+	- [TelemetryDeck](https://telemetrydeck.com) — Free/Paid — Privacy-first analytics built for indie developers with 4-minute setup and GDPR compliance by default
 	- [iTunes Affiliate](https://www.apple.com/itunes/affiliates/) — Free — Lets you track (sort of) how links into the iTunes Store convert into sales. Also lets you scratch back some of the 30% that Apple takes. [It's worth it](http://awkwardhare.com/post/117029547150/use-the-itunes-affiliate-program-its-worth-it).
 - Press / PR / Marketing
 	- [HARO](http://www.helpareporter.com) — Free — Daily emails from press asking for sources for their stories
