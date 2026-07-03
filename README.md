@@ -60,6 +60,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 - Press / PR / Marketing
 	- [HARO](http://www.helpareporter.com) — Free — Daily emails from press asking for sources for their stories
 	- [Find Keywords for App Store](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective) — Free — Blog post detailing how to objectively find the right keywords for your App Store description
+	- [AppNiche Revenue Checker](https://getappniche.com/tools/app-revenue-checker) and [ASO Keyword Opportunity Checker](https://getappniche.com/tools/app-store-keyword-tool) — Free — Estimate iOS app revenue/downloads and compare App Store keyword opportunities for launch research.
 	- [SensorTower](https://sensortower.com/) — Free — Helps with competitor and keyword research
 	- [ASO Keyword Spreadsheet](https://docs.google.com/spreadsheets/d/1QDlCM8Q0H_MBBef-kHb74b05DRRlLye1MFdp6GF-wdc/edit?usp=sharing) — Free — Spreadsheet to help measure keywords
 	- [Google Keyword Planner](https://adwords.google.com/ko/KeywordPlanner) — Free — Validate how relevant a product category is and determine existing demand.
