@@ -478,6 +478,8 @@ Once your app has been reviewed and approved for the App Store, and has its rel
 
 And now the marathon begins!
 
+- [ ] If you also ship a released Mac app, consider [Indie Mac Apps](https://indiemacapps.com/submit) for free editorial submission; inclusion is subject to review.
+
 - [ ] Email your list and let them know it's live! Ask for downloads _and reviews_.
 - [ ] Track daily active users and daily new users
      - If active users isn't growing with new users, then your active users are just churning and leaving. Find out why and keep them engaged.
