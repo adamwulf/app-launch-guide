@@ -61,6 +61,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [HARO](http://www.helpareporter.com) — Free — Daily emails from press asking for sources for their stories
 	- [Find Keywords for App Store](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective) — Free — Blog post detailing how to objectively find the right keywords for your App Store description
 	- [SensorTower](https://sensortower.com/) — Free — Helps with competitor and keyword research
+	- [App Store Localizer](https://asolocalization.com) — $19.99 one-time — Localize your App Store listing (name, subtitle, description, keywords, screenshots) from a public App Store URL, no subscription
 	- [ASO Keyword Spreadsheet](https://docs.google.com/spreadsheets/d/1QDlCM8Q0H_MBBef-kHb74b05DRRlLye1MFdp6GF-wdc/edit?usp=sharing) — Free — Spreadsheet to help measure keywords
 	- [Google Keyword Planner](https://adwords.google.com/ko/KeywordPlanner) — Free — Validate how relevant a product category is and determine existing demand.
 	- [KickoffLabs](http://kickofflabs.com) - Free / $29/mo - Quickly setup a website to start collecting email addresses. Their [Free plan](https://app.kickofflabs.com/signup/free) is limited, but just $29 gives you lots of options.
